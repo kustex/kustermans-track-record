@@ -1,0 +1,21 @@
+{
+  "sequence_number": 82,
+  "attestation_hash": "b1d2de2db37356ae0cf1fcdba34ef30d6be1f6d65be22c8ce31422cbf7781300",
+  "previous_hash": "df68702d9830f505f8a56a50bb04f6f39383d9f0d623079e14ddf07a3da7c928",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 25%",
+  "attested_at": "2026-06-13T12:30:36.969069+00:00",
+  "is_retroactive": true,
+  "trade_id": 135,
+  "trade_date": "2026-06-10",
+  "ticker": "VLTO",
+  "quantity": 44.0,
+  "price": 83.9862,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-10T18:03:28.026258+00:00",
+  "market_price": null,
+  "market_snapshot_at": null
+}
