@@ -1,0 +1,16 @@
+{
+  "sequence_number": 1,
+  "attestation_hash": "d5be86859554034c375a6740a2eb3b53079c6ac717d4b529e6df8491358a891a",
+  "previous_hash": "44fec84182a216cd662da0aff00217251a1719e65e3a7e511064b0713d9c77f6",
+  "version": 2,
+  "event_kind": "cashflow",
+  "user_id": 1,
+  "notes": null,
+  "attested_at": "2026-06-13T12:30:33.710902+00:00",
+  "is_retroactive": true,
+  "cf_id": 1,
+  "cf_type": "seed",
+  "cf_amount": 1000000.0,
+  "cf_currency": "EUR",
+  "cf_date": "2026-05-01"
+}
