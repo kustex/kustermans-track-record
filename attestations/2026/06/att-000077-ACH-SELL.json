@@ -1,0 +1,21 @@
+{
+  "sequence_number": 77,
+  "attestation_hash": "21a59d1f05b04932ec25aae3d2317ecbc5fac0b57e17ee48da2862d248081676",
+  "previous_hash": "6ca689d0694c063e4ec0f9707b75886e5dc64a3b0c41ee00b23ab0a04a5f05b7",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "",
+  "attested_at": "2026-06-13T12:30:36.806109+00:00",
+  "is_retroactive": true,
+  "trade_id": 127,
+  "trade_date": "2026-06-10",
+  "ticker": "ACH",
+  "quantity": 3591.0,
+  "price": 2.79,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-10T14:47:55.413224+00:00",
+  "market_price": null,
+  "market_snapshot_at": null
+}
