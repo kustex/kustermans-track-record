@@ -1,0 +1,21 @@
+{
+  "sequence_number": 25,
+  "attestation_hash": "bda94de9ddccb43bb7b2db97cf968dcd50f7c2b81532eec5d143c2ef03f211f0",
+  "previous_hash": "beeca832da098e42a789b201a6f24caccf99e42fb5baf9cd1116b86bade90b2a",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "",
+  "attested_at": "2026-06-13T12:30:34.696827+00:00",
+  "is_retroactive": true,
+  "trade_id": 62,
+  "trade_date": "2026-06-02",
+  "ticker": "EIS",
+  "quantity": 188.0,
+  "price": 132.46,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-02T19:43:34.470009+00:00",
+  "market_price": null,
+  "market_snapshot_at": null
+}
