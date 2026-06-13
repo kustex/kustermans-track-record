@@ -1,0 +1,21 @@
+{
+  "sequence_number": 50,
+  "attestation_hash": "79bc66f0e66fecd37bc8599b8c04bf4e10c22f995a664b77374f453dd585c3c0",
+  "previous_hash": "ed592e547f0a6b23d407845015aa8f5af2ec84e1c76bd72cea3190588778b36b",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "",
+  "attested_at": "2026-06-13T12:30:35.715781+00:00",
+  "is_retroactive": true,
+  "trade_id": 92,
+  "trade_date": "2026-06-05",
+  "ticker": "BTSG",
+  "quantity": 261.0,
+  "price": 57.42,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-05T14:44:32.468141+00:00",
+  "market_price": null,
+  "market_snapshot_at": null
+}
