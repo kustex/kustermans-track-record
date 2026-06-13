@@ -1,0 +1,21 @@
+{
+  "sequence_number": 44,
+  "attestation_hash": "31196b64ae7d3e938c284052199a9a625410c19e9ce2aa5fd0eb8f747c18995b",
+  "previous_hash": "4f6002735c2d20bff890cfbd6786cac2f73cbfc761577506f98946327b9a7443",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 50 BP",
+  "attested_at": "2026-06-13T12:30:35.551967+00:00",
+  "is_retroactive": true,
+  "trade_id": 86,
+  "trade_date": "2026-06-05",
+  "ticker": "EWS",
+  "quantity": 172.0,
+  "price": 29.04,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-05T14:26:21.886301+00:00",
+  "market_price": null,
+  "market_snapshot_at": null
+}
