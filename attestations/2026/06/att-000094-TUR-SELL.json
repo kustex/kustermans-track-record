@@ -1,0 +1,21 @@
+{
+  "sequence_number": 94,
+  "attestation_hash": "d994cd6b327190c40477ac96fb9993675c6645ffd4f299f4bf1d4f8c2b8d2574",
+  "previous_hash": "936f234a779bf20901d1bd3b0b0e8d1812169f510c2edad58b59adf12e0f7f8a",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "",
+  "attested_at": "2026-06-13T12:30:37.357583+00:00",
+  "is_retroactive": true,
+  "trade_id": 156,
+  "trade_date": "2026-06-11",
+  "ticker": "TUR",
+  "quantity": 385.0,
+  "price": 39.09,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-11T19:37:43.718890+00:00",
+  "market_price": null,
+  "market_snapshot_at": null
+}
