@@ -1,0 +1,21 @@
+{
+  "sequence_number": 22,
+  "attestation_hash": "b0cba5a3b9ef2783f61f9963f7e0edbd4b69e3ffe7307585215cf9d13a52b99f",
+  "previous_hash": "de65a31bff362a647d563e0376bd6fe77bd9be5fb8c063d56ba211a3425c7a86",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 25 BP",
+  "attested_at": "2026-06-13T12:30:34.567934+00:00",
+  "is_retroactive": true,
+  "trade_id": 59,
+  "trade_date": "2026-06-02",
+  "ticker": "TRGP",
+  "quantity": 10.0,
+  "price": 261.3016,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-02T14:09:21.246845+00:00",
+  "market_price": null,
+  "market_snapshot_at": null
+}
