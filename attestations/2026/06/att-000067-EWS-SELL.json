@@ -1,0 +1,21 @@
+{
+  "sequence_number": 67,
+  "attestation_hash": "8ef6198ff3b087d8dada7c7c2ba05870473e674ff4df7a8c296013f8807044c7",
+  "previous_hash": "d3b30202092e5cf61d0407d32a58ad5ee230bea028cdfc37be1ef1ebc8ff88d7",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 50%",
+  "attested_at": "2026-06-13T12:30:36.360075+00:00",
+  "is_retroactive": true,
+  "trade_id": 117,
+  "trade_date": "2026-06-10",
+  "ticker": "EWS",
+  "quantity": 678.0,
+  "price": 28.76,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-10T14:32:02.388991+00:00",
+  "market_price": null,
+  "market_snapshot_at": null
+}
