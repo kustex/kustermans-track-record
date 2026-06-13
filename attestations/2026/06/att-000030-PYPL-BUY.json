@@ -1,0 +1,21 @@
+{
+  "sequence_number": 30,
+  "attestation_hash": "9bd614bf7bcd888cb526add058e503f9ab22f62a298e64198af9582d2c4f20bf",
+  "previous_hash": "fa6ffbfd963b5391241f032e2418fede8ec49493b46f88eed776dc536c9f08a5",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 50%",
+  "attested_at": "2026-06-13T12:30:34.972114+00:00",
+  "is_retroactive": true,
+  "trade_id": 70,
+  "trade_date": "2026-06-03",
+  "ticker": "PYPL",
+  "quantity": 168.0,
+  "price": 42.7201,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-03T18:17:49.624881+00:00",
+  "market_price": null,
+  "market_snapshot_at": null
+}
