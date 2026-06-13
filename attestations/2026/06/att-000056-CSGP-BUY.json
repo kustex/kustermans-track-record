@@ -1,0 +1,21 @@
+{
+  "sequence_number": 56,
+  "attestation_hash": "c76fa452abcc3d6ccbd218e65039c55b8e81d7d2c538457586bb75eae3e10e2f",
+  "previous_hash": "4cb59f769254fe6d45b46236d80225a07109f7c45faffe46dd0c835cbb8a2de3",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-06-13T12:30:35.967302+00:00",
+  "is_retroactive": true,
+  "trade_id": 103,
+  "trade_date": "2026-06-08",
+  "ticker": "CSGP",
+  "quantity": 336.0,
+  "price": 33.3232,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-08T13:55:19.845109+00:00",
+  "market_price": null,
+  "market_snapshot_at": null
+}
