@@ -1,0 +1,21 @@
+{
+  "sequence_number": 63,
+  "attestation_hash": "760b4cd1b165b0b7da4dc13918eca28e1b9c0e04628688ae95b72b90320eb390",
+  "previous_hash": "411c781e12933816b2ae8aabd0f62a91e322a7a75e90e70658d323070e2cd97d",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 25%",
+  "attested_at": "2026-06-13T12:30:36.211816+00:00",
+  "is_retroactive": true,
+  "trade_id": 110,
+  "trade_date": "2026-06-08",
+  "ticker": "MET",
+  "quantity": 58.0,
+  "price": 84.7296,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-08T14:11:52.908993+00:00",
+  "market_price": null,
+  "market_snapshot_at": null
+}
