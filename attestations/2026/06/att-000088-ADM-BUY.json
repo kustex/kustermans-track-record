@@ -1,0 +1,21 @@
+{
+  "sequence_number": 88,
+  "attestation_hash": "b4d98ebb7d59a42269ecb5c052049566fb694a25d40f9a21641e69c3312c27e4",
+  "previous_hash": "2d25d16dfdcfd242e440081d0098801336dd43e17e0f727c4245c2f3bba1be5d",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "",
+  "attested_at": "2026-06-13T12:30:37.138451+00:00",
+  "is_retroactive": true,
+  "trade_id": 145,
+  "trade_date": "2026-06-11",
+  "ticker": "ADM",
+  "quantity": 252.0,
+  "price": 79.6,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-11T17:55:31.551919+00:00",
+  "market_price": null,
+  "market_snapshot_at": null
+}
