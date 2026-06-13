@@ -1,0 +1,21 @@
+{
+  "sequence_number": 62,
+  "attestation_hash": "411c781e12933816b2ae8aabd0f62a91e322a7a75e90e70658d323070e2cd97d",
+  "previous_hash": "748f8738cb62f64032994bff9835c20358de006312f7010214db6d209106becc",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Short 50 BP",
+  "attested_at": "2026-06-13T12:30:36.184949+00:00",
+  "is_retroactive": true,
+  "trade_id": 109,
+  "trade_date": "2026-06-08",
+  "ticker": "TLT",
+  "quantity": 59.0,
+  "price": 85.1336,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-08T13:59:23.258918+00:00",
+  "market_price": null,
+  "market_snapshot_at": null
+}
