@@ -1,0 +1,21 @@
+{
+  "sequence_number": 92,
+  "attestation_hash": "e8f6af26d9af47063b8804d65bc3cfdd9f94a47371e3a97a01f62ab10d6893a2",
+  "previous_hash": "e64a71714610c5bbfca491ef5e58b78e6ab5940f0ef6ece9a497351f69adcffa",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-06-13T12:30:37.288653+00:00",
+  "is_retroactive": true,
+  "trade_id": 152,
+  "trade_date": "2026-06-11",
+  "ticker": "SLB",
+  "quantity": 238.0,
+  "price": 56.0844,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-11T18:49:56.519503+00:00",
+  "market_price": null,
+  "market_snapshot_at": null
+}
