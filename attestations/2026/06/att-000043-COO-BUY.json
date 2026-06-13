@@ -1,0 +1,21 @@
+{
+  "sequence_number": 43,
+  "attestation_hash": "4f6002735c2d20bff890cfbd6786cac2f73cbfc761577506f98946327b9a7443",
+  "previous_hash": "2359a54c28bb44614da4653bfe63e8263162289bf2da0047de111a4f120b9406",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-06-13T12:30:35.523198+00:00",
+  "is_retroactive": true,
+  "trade_id": 85,
+  "trade_date": "2026-06-05",
+  "ticker": "COO",
+  "quantity": 241.0,
+  "price": 66.3731,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-05T14:20:05.834730+00:00",
+  "market_price": null,
+  "market_snapshot_at": null
+}
