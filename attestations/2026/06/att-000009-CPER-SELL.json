@@ -1,0 +1,21 @@
+{
+  "sequence_number": 9,
+  "attestation_hash": "30b06b200802120ab939112ec40b3bb9865c1412274622fa771baaa6a2bbe2d8",
+  "previous_hash": "557a106930f45d94c17c05af6afc044b0aa4da549077d2a74502c44aa73859dc",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 25%",
+  "attested_at": "2026-06-13T12:30:34.123211+00:00",
+  "is_retroactive": true,
+  "trade_id": 46,
+  "trade_date": "2026-06-01",
+  "ticker": "CPER",
+  "quantity": 96.0,
+  "price": 39.8347,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-01T15:30:37.600514+00:00",
+  "market_price": null,
+  "market_snapshot_at": null
+}
