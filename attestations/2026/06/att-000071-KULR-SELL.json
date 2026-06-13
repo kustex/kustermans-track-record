@@ -1,0 +1,21 @@
+{
+  "sequence_number": 71,
+  "attestation_hash": "24958e82b675127a0456860788270573aad9a7016376d4924bbbc8a7f508618d",
+  "previous_hash": "cfc019ef7416eb5e4c6827e526628b8704bfb8341af4139e2975a4683ff26f18",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-06-13T12:30:36.546834+00:00",
+  "is_retroactive": true,
+  "trade_id": 121,
+  "trade_date": "2026-06-10",
+  "ticker": "KULR",
+  "quantity": 3649.0,
+  "price": 3.655,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-10T14:36:36.488925+00:00",
+  "market_price": null,
+  "market_snapshot_at": null
+}
