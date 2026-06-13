@@ -1,0 +1,21 @@
+{
+  "sequence_number": 54,
+  "attestation_hash": "6fec1f4431402a4476c9e8665f6cc635cbc6caf1124e9c5f0183d5d6b285100f",
+  "previous_hash": "03e6030f5a09d911a7b49435cb029e2670e0ab2e28dfaab5a9f157f8250e3660",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "",
+  "attested_at": "2026-06-13T12:30:35.900929+00:00",
+  "is_retroactive": true,
+  "trade_id": 96,
+  "trade_date": "2026-06-05",
+  "ticker": "SLX",
+  "quantity": 140.0,
+  "price": 106.4,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-05T19:39:29.694479+00:00",
+  "market_price": null,
+  "market_snapshot_at": null
+}
