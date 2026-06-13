@@ -1,0 +1,21 @@
+{
+  "sequence_number": 102,
+  "attestation_hash": "3aa986f7583fbef0625f523a54059829c063ec6955f98c1d518cd15b2d6959f5",
+  "previous_hash": "a05b82a6c3d6604c469a0166f76cd4377122d8d258683252f80a1db2e27430c3",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Short 50 BP",
+  "attested_at": "2026-06-13T12:30:37.657600+00:00",
+  "is_retroactive": true,
+  "trade_id": 165,
+  "trade_date": "2026-06-12",
+  "ticker": "VSTM",
+  "quantity": 1249.0,
+  "price": 4.0255,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-12T18:01:18.351590+00:00",
+  "market_price": null,
+  "market_snapshot_at": null
+}
