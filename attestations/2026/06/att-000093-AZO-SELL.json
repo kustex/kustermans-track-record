@@ -1,0 +1,21 @@
+{
+  "sequence_number": 93,
+  "attestation_hash": "936f234a779bf20901d1bd3b0b0e8d1812169f510c2edad58b59adf12e0f7f8a",
+  "previous_hash": "e8f6af26d9af47063b8804d65bc3cfdd9f94a47371e3a97a01f62ab10d6893a2",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Short 50 BP",
+  "attested_at": "2026-06-13T12:30:37.319424+00:00",
+  "is_retroactive": true,
+  "trade_id": 153,
+  "trade_date": "2026-06-11",
+  "ticker": "AZO",
+  "quantity": 2.0,
+  "price": 3078.7175,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-11T19:28:30.620214+00:00",
+  "market_price": null,
+  "market_snapshot_at": null
+}
