@@ -1,0 +1,21 @@
+{
+  "sequence_number": 90,
+  "attestation_hash": "5436e3254ff1d4da258c858af4514393d7dec4935688bd6368da44235b650657",
+  "previous_hash": "ba2ddb6f39feeabf5de40d96d80d3d825a3c12759545cef71e213c0ad0e5d088",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Short 50 BP",
+  "attested_at": "2026-06-13T12:30:37.204876+00:00",
+  "is_retroactive": true,
+  "trade_id": 147,
+  "trade_date": "2026-06-11",
+  "ticker": "IDX",
+  "quantity": 478.0,
+  "price": 10.5,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-11T17:59:20.588697+00:00",
+  "market_price": null,
+  "market_snapshot_at": null
+}
