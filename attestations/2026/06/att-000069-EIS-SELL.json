@@ -1,0 +1,21 @@
+{
+  "sequence_number": 69,
+  "attestation_hash": "f78c0d81fca80b262e5c80ac3df0b4b0ba474cfa57301e9cdd13d3de9dba84e3",
+  "previous_hash": "6084921c174d81af177d5dd2e4122031afd5adcc58560c75cde24517f864a07b",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-06-13T12:30:36.461286+00:00",
+  "is_retroactive": true,
+  "trade_id": 119,
+  "trade_date": "2026-06-10",
+  "ticker": "EIS",
+  "quantity": 152.0,
+  "price": 124.0,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-10T14:32:56.659927+00:00",
+  "market_price": null,
+  "market_snapshot_at": null
+}
