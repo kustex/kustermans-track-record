@@ -1,0 +1,21 @@
+{
+  "sequence_number": 110,
+  "attestation_hash": "293b4790b71285302f7a1cdf69beda663a5d174a1d7ff5666f82aa2795b53a80",
+  "previous_hash": "d905d6efad3316816b0193cf503c70f0e82e54bd486365c07e29dc1521ef9a1d",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 50%",
+  "attested_at": "2026-06-15T13:43:29.038591+00:00",
+  "is_retroactive": false,
+  "trade_id": 176,
+  "trade_date": "2026-06-15",
+  "ticker": "IDX",
+  "quantity": 947.0,
+  "price": 11.2699,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-15T13:43:28.986906+00:00",
+  "market_price": 11.2699,
+  "market_snapshot_at": "2026-06-15T00:00:00+00:00"
+}
