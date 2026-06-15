@@ -1,0 +1,21 @@
+{
+  "sequence_number": 113,
+  "attestation_hash": "ea01214919486b1d93b4a0d7814838c7967305b4ec2589f1d2fec180629ff092",
+  "previous_hash": "05af112d5e9ce154e9737f13409e17a5a37b23207d1faec7c53a88f7b47f1773",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 50 BP",
+  "attested_at": "2026-06-15T17:01:48.247404+00:00",
+  "is_retroactive": false,
+  "trade_id": 179,
+  "trade_date": "2026-06-15",
+  "ticker": "DFTX",
+  "quantity": 208.0,
+  "price": 24.0648,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-15T17:01:48.192102+00:00",
+  "market_price": 24.0648,
+  "market_snapshot_at": "2026-06-15T00:00:00+00:00"
+}
