@@ -1,0 +1,21 @@
+{
+  "sequence_number": 125,
+  "attestation_hash": "d5f608852a872e019b328d4a2a0be7e1a206c10af8eeee2475dd8c4b7af21502",
+  "previous_hash": "52d10400ba095fe490e227c1898e1b1e2be52070293633d5e6827291a1bdf0bb",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "",
+  "attested_at": "2026-06-16T18:22:15.733880+00:00",
+  "is_retroactive": false,
+  "trade_id": 192,
+  "trade_date": "2026-06-16",
+  "ticker": "DXCM",
+  "quantity": 204.0,
+  "price": 73.47,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-16T18:22:15.673265+00:00",
+  "market_price": 73.4689,
+  "market_snapshot_at": "2026-06-16T00:00:00+00:00"
+}
