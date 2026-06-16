@@ -1,0 +1,21 @@
+{
+  "sequence_number": 122,
+  "attestation_hash": "122ad2709235be868417aaeef86112f5afed7927982fda81d3c628357df92c95",
+  "previous_hash": "105d35a24e2aaa634784a6b916f61e62df8e152af557d7fd6e59814ef3d41fc6",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Short 50 BP",
+  "attested_at": "2026-06-16T18:14:00.853843+00:00",
+  "is_retroactive": false,
+  "trade_id": 189,
+  "trade_date": "2026-06-16",
+  "ticker": "LULU",
+  "quantity": 43.0,
+  "price": 116.9456,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-16T18:14:00.793389+00:00",
+  "market_price": 116.9456,
+  "market_snapshot_at": "2026-06-16T00:00:00+00:00"
+}
