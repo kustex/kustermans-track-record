@@ -1,0 +1,21 @@
+{
+  "sequence_number": 128,
+  "attestation_hash": "9a1ab7abf6dd5c96075f7ead86b5a61dd55b6a71f13158897c5e00b6b70b4e5c",
+  "previous_hash": "be1b8b1a92e924ea60ca62e162a715da22ada67deacba62596698c397d943a6a",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 25%",
+  "attested_at": "2026-06-17T18:53:09.635089+00:00",
+  "is_retroactive": false,
+  "trade_id": 203,
+  "trade_date": "2026-06-17",
+  "ticker": "LULU",
+  "quantity": 31.0,
+  "price": 114.8759,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-17T18:53:09.571770+00:00",
+  "market_price": 114.8759,
+  "market_snapshot_at": "2026-06-17T00:00:00+00:00"
+}
