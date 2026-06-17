@@ -1,0 +1,21 @@
+{
+  "sequence_number": 130,
+  "attestation_hash": "38e12cfbdf990e571a1a3dc8ac057d339dac0aacfd35ac33eaaeddadb87a5cef",
+  "previous_hash": "de9505870b61ea3463eec68ec3fcbcbf25a35c30a08cc042298c6b8cf065f597",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Short 50 BP",
+  "attested_at": "2026-06-17T18:54:51.813107+00:00",
+  "is_retroactive": false,
+  "trade_id": 205,
+  "trade_date": "2026-06-17",
+  "ticker": "ORIC",
+  "quantity": 576.0,
+  "price": 8.7164,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-17T18:54:51.768979+00:00",
+  "market_price": 8.7164,
+  "market_snapshot_at": "2026-06-17T00:00:00+00:00"
+}
