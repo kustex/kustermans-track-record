@@ -1,0 +1,21 @@
+{
+  "sequence_number": 135,
+  "attestation_hash": "7d6c5c66cbf38c23b4e77e7647b491aa6d75b353136a3050753cef6d8714baec",
+  "previous_hash": "163163c810d7dc743e0c527dc71afc035b41d0e3717259010a86ff92bb8c84f5",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "",
+  "attested_at": "2026-06-18T13:33:45.827131+00:00",
+  "is_retroactive": false,
+  "trade_id": 210,
+  "trade_date": "2026-06-18",
+  "ticker": "FRT",
+  "quantity": 124.0,
+  "price": 121.32,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-18T13:33:45.777463+00:00",
+  "market_price": 121.2864,
+  "market_snapshot_at": "2026-06-18T00:00:00+00:00"
+}
