@@ -1,0 +1,21 @@
+{
+  "sequence_number": 137,
+  "attestation_hash": "b18d8843e02c1f98fe8fc1bbf1c36957f3319ef7fba3249ff806162a2df2f9c5",
+  "previous_hash": "22105a9ce9ecf97f45e1180cd964018b4ab76884d08710c86f3ca3e04d349301",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-06-23T13:34:15.154339+00:00",
+  "is_retroactive": false,
+  "trade_id": 213,
+  "trade_date": "2026-06-23",
+  "ticker": "SLX",
+  "quantity": 105.0,
+  "price": 101.8015,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-23T13:34:15.056686+00:00",
+  "market_price": 101.8015,
+  "market_snapshot_at": "2026-06-23T00:00:00+00:00"
+}
