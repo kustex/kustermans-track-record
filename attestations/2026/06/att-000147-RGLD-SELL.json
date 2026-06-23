@@ -1,0 +1,21 @@
+{
+  "sequence_number": 147,
+  "attestation_hash": "af71f9b221db5c11ac3b9550b09f133b8076cc9a729062384c1cbc9c2490b484",
+  "previous_hash": "6d0d43c19bfcec11684ee7fbee3fd06a0a9f5581ff590b1f562a459f949442af",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "",
+  "attested_at": "2026-06-23T14:28:33.986614+00:00",
+  "is_retroactive": false,
+  "trade_id": 223,
+  "trade_date": "2026-06-23",
+  "ticker": "RGLD",
+  "quantity": 48.0,
+  "price": 211.44,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-23T14:28:33.910829+00:00",
+  "market_price": 211.44,
+  "market_snapshot_at": "2026-06-23T00:00:00+00:00"
+}
