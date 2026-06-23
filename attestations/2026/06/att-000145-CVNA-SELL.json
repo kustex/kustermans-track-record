@@ -1,0 +1,21 @@
+{
+  "sequence_number": 145,
+  "attestation_hash": "9429ba81769b2c91847962fbf48da61f286715d805aff0a8cda0d799d5692072",
+  "previous_hash": "f18f3cd37cf18a9bc0e1345dafc6c6bfe9d0d47de8365fd3796be23e460dc71d",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "",
+  "attested_at": "2026-06-23T14:21:57.604609+00:00",
+  "is_retroactive": false,
+  "trade_id": 221,
+  "trade_date": "2026-06-23",
+  "ticker": "CVNA",
+  "quantity": 153.0,
+  "price": 66.5,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-23T14:21:57.483763+00:00",
+  "market_price": 66.48,
+  "market_snapshot_at": "2026-06-23T00:00:00+00:00"
+}
