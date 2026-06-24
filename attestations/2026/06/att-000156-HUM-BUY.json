@@ -1,0 +1,21 @@
+{
+  "sequence_number": 156,
+  "attestation_hash": "8bace26d446e731902876632fc01185e8d90ed8a910f2f5af778082fef170732",
+  "previous_hash": "a5be94df7474c18604395022ef8f914948f932512fe8e90244ca0a5cb0845aaa",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "",
+  "attested_at": "2026-06-24T16:55:53.226660+00:00",
+  "is_retroactive": false,
+  "trade_id": 233,
+  "trade_date": "2026-06-24",
+  "ticker": "HUM",
+  "quantity": 35.0,
+  "price": 355.84,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-24T16:55:53.155682+00:00",
+  "market_price": 355.84,
+  "market_snapshot_at": "2026-06-24T00:00:00+00:00"
+}
