@@ -1,0 +1,21 @@
+{
+  "sequence_number": 161,
+  "attestation_hash": "ad78e06a4777aa986c6c5fdf21bdb7d22788184d7891f47c476c3758343449f6",
+  "previous_hash": "9a37672cf75af47f874dc7193b456b539506313527ba64d3353b16f249f2a3c8",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "",
+  "attested_at": "2026-06-24T17:18:22.744477+00:00",
+  "is_retroactive": false,
+  "trade_id": 238,
+  "trade_date": "2026-06-24",
+  "ticker": "600309.SHG",
+  "quantity": 136.0,
+  "price": 74.7,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-24T17:18:22.715371+00:00",
+  "market_price": 72.8,
+  "market_snapshot_at": "2026-06-23T00:00:00+00:00"
+}
