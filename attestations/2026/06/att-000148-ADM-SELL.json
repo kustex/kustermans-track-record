@@ -1,0 +1,21 @@
+{
+  "sequence_number": 148,
+  "attestation_hash": "ec6ff5cbf5e9065655b33f8cb2d430a8400a38b32c94f9107562aa570c90fddd",
+  "previous_hash": "af71f9b221db5c11ac3b9550b09f133b8076cc9a729062384c1cbc9c2490b484",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-06-24T13:38:17.153015+00:00",
+  "is_retroactive": false,
+  "trade_id": 224,
+  "trade_date": "2026-06-24",
+  "ticker": "ADM",
+  "quantity": 126.0,
+  "price": 73.2,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-24T13:38:17.059263+00:00",
+  "market_price": 73.2,
+  "market_snapshot_at": "2026-06-24T00:00:00+00:00"
+}
