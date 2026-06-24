@@ -1,0 +1,21 @@
+{
+  "sequence_number": 159,
+  "attestation_hash": "4cb5c24bce81c39a259a3335bc83c5494c272a206aaeb4691ed808d40ee46c48",
+  "previous_hash": "c069bbbd9fb7848c2fa270cf46f143c273208d57e86b00931b70d15590426c3d",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "",
+  "attested_at": "2026-06-24T17:12:34.391062+00:00",
+  "is_retroactive": false,
+  "trade_id": 236,
+  "trade_date": "2026-06-24",
+  "ticker": "ULTA",
+  "quantity": 21.0,
+  "price": 476.5,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-24T17:12:34.313691+00:00",
+  "market_price": 476.485,
+  "market_snapshot_at": "2026-06-24T00:00:00+00:00"
+}
