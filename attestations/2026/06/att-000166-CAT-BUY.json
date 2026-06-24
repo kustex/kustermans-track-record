@@ -1,0 +1,21 @@
+{
+  "sequence_number": 166,
+  "attestation_hash": "1242db2c6bdb67aeb4d8bcd1e9ed87cd2a7878acd5c6f89610345adf17706dbe",
+  "previous_hash": "dc99ae32ea85ac9dbb55dc01683e2c3964df7573fdb4420e57875e352f030012",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 50 BP",
+  "attested_at": "2026-06-24T19:42:34.406756+00:00",
+  "is_retroactive": false,
+  "trade_id": 243,
+  "trade_date": "2026-06-24",
+  "ticker": "CAT",
+  "quantity": 5.0,
+  "price": 985.46,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-24T19:42:34.351611+00:00",
+  "market_price": 985.46,
+  "market_snapshot_at": "2026-06-24T00:00:00+00:00"
+}
