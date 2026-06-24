@@ -1,0 +1,21 @@
+{
+  "sequence_number": 155,
+  "attestation_hash": "a5be94df7474c18604395022ef8f914948f932512fe8e90244ca0a5cb0845aaa",
+  "previous_hash": "734ac26922ad0b298558df8e4c6ec7476ae1041c0f7d796633c7d03c3ed3bc3e",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 50 BP",
+  "attested_at": "2026-06-24T16:52:34.013258+00:00",
+  "is_retroactive": false,
+  "trade_id": 232,
+  "trade_date": "2026-06-24",
+  "ticker": "COHU",
+  "quantity": 81.0,
+  "price": 63.14,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-24T16:52:33.865196+00:00",
+  "market_price": 64.37,
+  "market_snapshot_at": "2026-06-23T00:00:00+00:00"
+}
