@@ -1,0 +1,21 @@
+{
+  "sequence_number": 157,
+  "attestation_hash": "0b3441ed1da5c80759d6ae8d9e71a33e657ea2d38aaa5ca2b1d51b8f53310c92",
+  "previous_hash": "8bace26d446e731902876632fc01185e8d90ed8a910f2f5af778082fef170732",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "",
+  "attested_at": "2026-06-24T17:09:55.314392+00:00",
+  "is_retroactive": false,
+  "trade_id": 234,
+  "trade_date": "2026-06-24",
+  "ticker": "CPB",
+  "quantity": 462.0,
+  "price": 22.12,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-24T17:09:55.242114+00:00",
+  "market_price": 22.115,
+  "market_snapshot_at": "2026-06-24T00:00:00+00:00"
+}
