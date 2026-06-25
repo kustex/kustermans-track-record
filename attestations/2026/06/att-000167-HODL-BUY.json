@@ -1,0 +1,21 @@
+{
+  "sequence_number": 167,
+  "attestation_hash": "88520828b6fabc3c33d0437c74011be818c7478649e437be6715ef4efa196837",
+  "previous_hash": "1242db2c6bdb67aeb4d8bcd1e9ed87cd2a7878acd5c6f89610345adf17706dbe",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 25%",
+  "attested_at": "2026-06-25T14:17:01.734132+00:00",
+  "is_retroactive": false,
+  "trade_id": 247,
+  "trade_date": "2026-06-25",
+  "ticker": "HODL",
+  "quantity": 154.0,
+  "price": 16.6,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-25T14:17:01.676075+00:00",
+  "market_price": 16.6,
+  "market_snapshot_at": "2026-06-25T00:00:00+00:00"
+}
