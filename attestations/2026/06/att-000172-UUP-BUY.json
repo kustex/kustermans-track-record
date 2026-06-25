@@ -1,0 +1,21 @@
+{
+  "sequence_number": 172,
+  "attestation_hash": "eccc6b720a40d2ea3e00e4a2195c22f13bc6ef95eb8381f4dbfd63bc3898fffe",
+  "previous_hash": "38dc2159168ddfd9150199c8924ebec67e609c4ecf38d28ff9ab5d320a59a2fb",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 100 BP",
+  "attested_at": "2026-06-25T20:22:07.176217+00:00",
+  "is_retroactive": false,
+  "trade_id": 252,
+  "trade_date": "2026-06-25",
+  "ticker": "UUP",
+  "quantity": 361.0,
+  "price": 28.48,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-25T20:22:07.107183+00:00",
+  "market_price": 28.53,
+  "market_snapshot_at": "2026-06-24T00:00:00+00:00"
+}
