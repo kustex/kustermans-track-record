@@ -1,0 +1,21 @@
+{
+  "sequence_number": 169,
+  "attestation_hash": "61f26feef1f47ef69f6639f7f78fd33d0c838044a0fc08a12304dddeb9fe452a",
+  "previous_hash": "6f92ac825739d53ec8d57b205410445f9b23a159c9302e78d9acaa611576df98",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 25%",
+  "attested_at": "2026-06-25T14:17:50.961599+00:00",
+  "is_retroactive": false,
+  "trade_id": 249,
+  "trade_date": "2026-06-25",
+  "ticker": "CAT",
+  "quantity": 4.0,
+  "price": 1041.23,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-25T14:17:50.561573+00:00",
+  "market_price": 1027.5525,
+  "market_snapshot_at": "2026-06-25T00:00:00+00:00"
+}
