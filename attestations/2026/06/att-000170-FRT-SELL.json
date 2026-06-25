@@ -1,0 +1,21 @@
+{
+  "sequence_number": 170,
+  "attestation_hash": "47269b0fd0eec227e897228a5b44c3bf64dcd9ea064c8234867a458102fd8bf1",
+  "previous_hash": "61f26feef1f47ef69f6639f7f78fd33d0c838044a0fc08a12304dddeb9fe452a",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 25%",
+  "attested_at": "2026-06-25T14:18:16.858831+00:00",
+  "is_retroactive": false,
+  "trade_id": 250,
+  "trade_date": "2026-06-25",
+  "ticker": "FRT",
+  "quantity": 31.0,
+  "price": 125.2,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-25T14:18:16.433970+00:00",
+  "market_price": 125.205,
+  "market_snapshot_at": "2026-06-25T00:00:00+00:00"
+}
