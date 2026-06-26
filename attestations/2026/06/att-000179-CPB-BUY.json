@@ -1,0 +1,21 @@
+{
+  "sequence_number": 179,
+  "attestation_hash": "a6ee28e4f8e2e339deb88bfe7cbcb9c1dc4b782bd3e9d880187b8140948542fc",
+  "previous_hash": "e4cbd0fbc51668a0a24c3dd1fa566b973cfb2c87dbc1c75bf572f018ba961025",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 50 BP",
+  "attested_at": "2026-06-26T15:15:20.939688+00:00",
+  "is_retroactive": false,
+  "trade_id": 259,
+  "trade_date": "2026-06-26",
+  "ticker": "CPB",
+  "quantity": 227.0,
+  "price": 22.585,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-26T15:15:20.830907+00:00",
+  "market_price": 22.585,
+  "market_snapshot_at": "2026-06-26T00:00:00+00:00"
+}
