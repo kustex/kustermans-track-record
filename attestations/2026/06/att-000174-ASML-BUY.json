@@ -1,0 +1,21 @@
+{
+  "sequence_number": 174,
+  "attestation_hash": "b66a42715231911ba7da641bee67dda3d58024a0d5a3958e685ef056b9bdebd1",
+  "previous_hash": "db15b33157fe5fb3d7fe9a284b9d3d994e3e0159646cd191ea48eba55b342c23",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 50 BP",
+  "attested_at": "2026-06-26T14:11:11.749818+00:00",
+  "is_retroactive": false,
+  "trade_id": 254,
+  "trade_date": "2026-06-26",
+  "ticker": "ASML",
+  "quantity": 3.0,
+  "price": 1796.825,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-26T14:11:11.681593+00:00",
+  "market_price": 1796.825,
+  "market_snapshot_at": "2026-06-26T00:00:00+00:00"
+}
