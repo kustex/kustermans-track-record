@@ -1,0 +1,21 @@
+{
+  "sequence_number": 185,
+  "attestation_hash": "cb43971842b1b45bd3f0011956d02cee05701bbc8230192914d23012236be2ab",
+  "previous_hash": "79317bd57c95b4e3c7bfa217cf8dfaab50c6db21a2818f7d88603453a3e922a6",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 25%",
+  "attested_at": "2026-06-29T16:44:56.224497+00:00",
+  "is_retroactive": false,
+  "trade_id": 265,
+  "trade_date": "2026-06-29",
+  "ticker": "MRK",
+  "quantity": 27.0,
+  "price": 128.86,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-29T16:44:56.149228+00:00",
+  "market_price": 128.86,
+  "market_snapshot_at": "2026-06-29T00:00:00+00:00"
+}
