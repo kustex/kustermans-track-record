@@ -1,0 +1,21 @@
+{
+  "sequence_number": 186,
+  "attestation_hash": "f270d7dc5cc6ece89ec5eb8439be3842be5dd9a809a10dcc4f784a5b61b7ba62",
+  "previous_hash": "cb43971842b1b45bd3f0011956d02cee05701bbc8230192914d23012236be2ab",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 25%",
+  "attested_at": "2026-06-29T16:45:12.139913+00:00",
+  "is_retroactive": false,
+  "trade_id": 266,
+  "trade_date": "2026-06-29",
+  "ticker": "KO",
+  "quantity": 62.0,
+  "price": 82.7,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-29T16:45:12.048210+00:00",
+  "market_price": 82.7,
+  "market_snapshot_at": "2026-06-29T00:00:00+00:00"
+}
