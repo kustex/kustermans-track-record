@@ -1,0 +1,21 @@
+{
+  "sequence_number": 183,
+  "attestation_hash": "a3ea4abee72455b3a086b49f258a028925dcf39656986fdb1c89d87e1c234d47",
+  "previous_hash": "4564b007c632276767ce197fb238d567ac150c15500ba1d28e955234bb5c81e7",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-06-29T09:45:07.887823+00:00",
+  "is_retroactive": false,
+  "trade_id": 263,
+  "trade_date": "2026-06-29",
+  "ticker": "002202.SHE",
+  "quantity": 440.0,
+  "price": 21.73,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-29T09:45:07.853765+00:00",
+  "market_price": 23.33,
+  "market_snapshot_at": "2026-06-26T00:00:00+00:00"
+}
