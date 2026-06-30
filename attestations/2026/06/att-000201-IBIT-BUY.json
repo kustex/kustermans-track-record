@@ -1,0 +1,21 @@
+{
+  "sequence_number": 201,
+  "attestation_hash": "07efa23ac8f834ff389652a7d5db747573116012402548966ee51205f07bf841",
+  "previous_hash": "8cd97df809d610c05b5401a9154817be528df2349ed49250171e44672113c73f",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-06-30T17:20:10.870792+00:00",
+  "is_retroactive": false,
+  "trade_id": 281,
+  "trade_date": "2026-06-30",
+  "ticker": "IBIT",
+  "quantity": 230.0,
+  "price": 33.05,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-30T17:20:10.837595+00:00",
+  "market_price": 33.0493,
+  "market_snapshot_at": "2026-06-30T00:00:00+00:00"
+}
