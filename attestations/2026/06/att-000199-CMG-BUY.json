@@ -1,0 +1,21 @@
+{
+  "sequence_number": 199,
+  "attestation_hash": "2a6fe07b73a10d8a7192f96458ef0aa25b99887a89aaf6ff4fe7af8b1400be03",
+  "previous_hash": "44abb51577312b81eccdbfeaadf158f1406f56f9e802e821d85c65c1bad0b993",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-06-30T16:57:59.397030+00:00",
+  "is_retroactive": false,
+  "trade_id": 279,
+  "trade_date": "2026-06-30",
+  "ticker": "CMG",
+  "quantity": 471.0,
+  "price": 33.685,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-30T16:57:59.290339+00:00",
+  "market_price": 33.685,
+  "market_snapshot_at": "2026-06-30T00:00:00+00:00"
+}
