@@ -1,0 +1,21 @@
+{
+  "sequence_number": 214,
+  "attestation_hash": "f387877ea4aa79def8e3d6b915b9802342c13e5e95b3b20aedae1e320a832120",
+  "previous_hash": "ad30a8f70add754441f2f31ca143d143f8ccc51cb24db8c8169011aea4ed7e28",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "I want to be tighter net. MSFT not at top but did not come up either on XLK 2.48% day...",
+  "attested_at": "2026-06-30T18:02:54.163796+00:00",
+  "is_retroactive": false,
+  "trade_id": 294,
+  "trade_date": "2026-06-30",
+  "ticker": "MSFT",
+  "quantity": 28.0,
+  "price": 370.57,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-30T18:02:53.980546+00:00",
+  "market_price": 370.757892,
+  "market_snapshot_at": "2026-06-30T00:00:00+00:00"
+}
