@@ -1,0 +1,21 @@
+{
+  "sequence_number": 198,
+  "attestation_hash": "44abb51577312b81eccdbfeaadf158f1406f56f9e802e821d85c65c1bad0b993",
+  "previous_hash": "5a829b4ffec9e3c1d2dd5f48898d01f162456ab51acb57ff5cca7e809ca8d60c",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 25%",
+  "attested_at": "2026-06-30T14:05:47.766102+00:00",
+  "is_retroactive": false,
+  "trade_id": 278,
+  "trade_date": "2026-06-30",
+  "ticker": "COHU",
+  "quantity": 45.0,
+  "price": 70.925,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-30T14:05:47.483868+00:00",
+  "market_price": 70.925,
+  "market_snapshot_at": "2026-06-30T00:00:00+00:00"
+}
