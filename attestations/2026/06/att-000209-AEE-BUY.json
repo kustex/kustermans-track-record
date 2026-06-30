@@ -1,0 +1,21 @@
+{
+  "sequence_number": 209,
+  "attestation_hash": "2f1da1600516920e89532d88d645395a3a5434dd69a7da71df674fb635209c28",
+  "previous_hash": "36ade06a345dca217521186418bbae5ad91928bfafbd01f95124c641f3740672",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "",
+  "attested_at": "2026-06-30T17:45:13.029149+00:00",
+  "is_retroactive": false,
+  "trade_id": 289,
+  "trade_date": "2026-06-30",
+  "ticker": "AEE",
+  "quantity": 109.0,
+  "price": 114.12,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-30T17:45:12.820877+00:00",
+  "market_price": 114.14,
+  "market_snapshot_at": "2026-06-30T00:00:00+00:00"
+}
