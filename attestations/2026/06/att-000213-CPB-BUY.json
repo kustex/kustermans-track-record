@@ -1,0 +1,21 @@
+{
+  "sequence_number": 213,
+  "attestation_hash": "ad30a8f70add754441f2f31ca143d143f8ccc51cb24db8c8169011aea4ed7e28",
+  "previous_hash": "90b27b79e8927c6baefcb0adffb5f067ad34b37e27099acd31b6995811a43cb7",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-06-30T17:56:38.210222+00:00",
+  "is_retroactive": false,
+  "trade_id": 293,
+  "trade_date": "2026-06-30",
+  "ticker": "CPB",
+  "quantity": 689.0,
+  "price": 22.305,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-30T17:56:38.133916+00:00",
+  "market_price": 22.305,
+  "market_snapshot_at": "2026-06-30T00:00:00+00:00"
+}
