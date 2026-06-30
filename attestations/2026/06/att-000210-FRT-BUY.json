@@ -1,0 +1,21 @@
+{
+  "sequence_number": 210,
+  "attestation_hash": "ee24ea2aa9788e4b756e584b132fc1172191d04e1b34ee1ad6e75dc305468c35",
+  "previous_hash": "2f1da1600516920e89532d88d645395a3a5434dd69a7da71df674fb635209c28",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 50 BP",
+  "attested_at": "2026-06-30T17:48:10.201231+00:00",
+  "is_retroactive": false,
+  "trade_id": 290,
+  "trade_date": "2026-06-30",
+  "ticker": "FRT",
+  "quantity": 41.0,
+  "price": 124.45,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-30T17:48:10.013502+00:00",
+  "market_price": 124.45,
+  "market_snapshot_at": "2026-06-30T00:00:00+00:00"
+}
