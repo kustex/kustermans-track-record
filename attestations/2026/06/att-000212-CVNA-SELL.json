@@ -1,0 +1,21 @@
+{
+  "sequence_number": 212,
+  "attestation_hash": "90b27b79e8927c6baefcb0adffb5f067ad34b37e27099acd31b6995811a43cb7",
+  "previous_hash": "6901918ee8763137110d7ccd3680fa1febc7b043520263145f7575926fd23ee5",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 50 BP",
+  "attested_at": "2026-06-30T17:51:01.775972+00:00",
+  "is_retroactive": false,
+  "trade_id": 292,
+  "trade_date": "2026-06-30",
+  "ticker": "CVNA",
+  "quantity": 80.0,
+  "price": 64.81,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-06-30T17:51:01.661087+00:00",
+  "market_price": 64.81,
+  "market_snapshot_at": "2026-06-30T00:00:00+00:00"
+}
