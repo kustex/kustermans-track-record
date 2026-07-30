@@ -1,0 +1,21 @@
+{
+  "sequence_number": 397,
+  "attestation_hash": "82545983310e1cef5d6d833da331ee7d59bb916c6107eb31170576951d6fdd79",
+  "previous_hash": "c59cfc82406cd42c823e2bb2ae96793c2a9ea0c4e1bb6a1fa4fb0f93ea3b7481",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-07-29T19:15:30.296340+00:00",
+  "is_retroactive": false,
+  "trade_id": 490,
+  "trade_date": "2026-07-29",
+  "ticker": "KWEB",
+  "quantity": 624.0,
+  "price": 28.055,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-29T19:15:30.265112+00:00",
+  "market_price": 27.31,
+  "market_snapshot_at": "2026-07-28T00:00:00+00:00"
+}
