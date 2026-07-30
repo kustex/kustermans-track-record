@@ -1,0 +1,21 @@
+{
+  "sequence_number": 254,
+  "attestation_hash": "46dc861e49eebf5b1abf8354380a047115287457dcdbee1e9427d13638c22541",
+  "previous_hash": "87c8780b5de868c582f48ae6abe5fc32f80d1b7047adb4e427c9c5ba70852a25",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-07-09T15:24:56.262672+00:00",
+  "is_retroactive": false,
+  "trade_id": 334,
+  "trade_date": "2026-07-09",
+  "ticker": "CMCSA",
+  "quantity": 421.0,
+  "price": 23.095,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-09T15:24:56.233765+00:00",
+  "market_price": 23.19,
+  "market_snapshot_at": "2026-07-08T00:00:00+00:00"
+}
