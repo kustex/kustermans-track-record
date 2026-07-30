@@ -1,0 +1,21 @@
+{
+  "sequence_number": 281,
+  "attestation_hash": "0075a947254ca2346c16181812fc82271b7a5d04067b0ceccd259cf1d8c363d8",
+  "previous_hash": "823b9a7e6e8709b17d25e06ee04581a84f22f294a3ef4e31584919d69bd90642",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 50 BP",
+  "attested_at": "2026-07-14T13:57:19.826435+00:00",
+  "is_retroactive": false,
+  "trade_id": 361,
+  "trade_date": "2026-07-14",
+  "ticker": "MRK",
+  "quantity": 42.0,
+  "price": 122.01,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-14T13:57:19.737880+00:00",
+  "market_price": 124.03,
+  "market_snapshot_at": "2026-07-13T00:00:00+00:00"
+}
