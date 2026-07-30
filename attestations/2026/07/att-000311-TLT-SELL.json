@@ -1,0 +1,21 @@
+{
+  "sequence_number": 311,
+  "attestation_hash": "3dc23f181ba3b6bd143b1a35c255bde7a048ff893e0fdcf42c06626fecef7cc5",
+  "previous_hash": "9c9eefd5d7158c7532c947e02a215d73b1629c8988f9bc47d66abb91de1b6893",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-07-20T13:55:15.116859+00:00",
+  "is_retroactive": false,
+  "trade_id": 397,
+  "trade_date": "2026-07-20",
+  "ticker": "TLT",
+  "quantity": 1301.0,
+  "price": 84.26,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-20T13:55:15.079426+00:00",
+  "market_price": 84.52,
+  "market_snapshot_at": "2026-07-17T00:00:00+00:00"
+}
