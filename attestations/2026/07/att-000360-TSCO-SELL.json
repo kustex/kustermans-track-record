@@ -1,0 +1,21 @@
+{
+  "sequence_number": 360,
+  "attestation_hash": "fe7a469b22dee7fe295cabdbff3047a44417eefff06b89548843efd7727721da",
+  "previous_hash": "55691690bfb1b6785f6428c4b4c4ecd61d4dd30c1db32beede839aa2fded6a45",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "",
+  "attested_at": "2026-07-24T14:05:17.044428+00:00",
+  "is_retroactive": false,
+  "trade_id": 452,
+  "trade_date": "2026-07-24",
+  "ticker": "TSCO",
+  "quantity": 569.0,
+  "price": 30.4,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-24T14:05:17.004328+00:00",
+  "market_price": 30.32,
+  "market_snapshot_at": "2026-07-23T00:00:00+00:00"
+}
