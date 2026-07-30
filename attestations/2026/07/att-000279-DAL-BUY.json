@@ -1,0 +1,21 @@
+{
+  "sequence_number": 279,
+  "attestation_hash": "0756dfa7b1d8b9179cc6fdf7f588663c99fad5fecd9c74d192914556b46bbf14",
+  "previous_hash": "8bc57cdad5138ee29e4cd08a8c6bd6f1f95777e38a3b50d66feb7500b31d5711",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 50 BP",
+  "attested_at": "2026-07-14T13:57:06.212696+00:00",
+  "is_retroactive": false,
+  "trade_id": 359,
+  "trade_date": "2026-07-14",
+  "ticker": "DAL",
+  "quantity": 59.0,
+  "price": 85.27,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-14T13:57:06.174388+00:00",
+  "market_price": 86.19,
+  "market_snapshot_at": "2026-07-13T00:00:00+00:00"
+}
