@@ -1,0 +1,21 @@
+{
+  "sequence_number": 338,
+  "attestation_hash": "62308bb80e75297620611b97cf9ee471cc40ea8226ec6be9eedd25a17bdaffed",
+  "previous_hash": "0e9b2835f088371a4cc6428b96ca3d47237ba0185df98f0db94acbc46f1d0582",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "",
+  "attested_at": "2026-07-22T20:00:22.830106+00:00",
+  "is_retroactive": false,
+  "trade_id": 430,
+  "trade_date": "2026-07-22",
+  "ticker": "GLD",
+  "quantity": 122.0,
+  "price": 379.07,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-22T20:00:22.802032+00:00",
+  "market_price": 374.81,
+  "market_snapshot_at": "2026-07-21T00:00:00+00:00"
+}
