@@ -1,0 +1,21 @@
+{
+  "sequence_number": 239,
+  "attestation_hash": "7de11a65855efdc2d5c4c0bc23de4ed5fcdcbf410c53972d84b55f75d8223c0f",
+  "previous_hash": "aaabb064851edb44e6939d6d4e8796ef85d3eb8e018a054ba23f3abb816a7e63",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 50 BP",
+  "attested_at": "2026-07-02T19:15:15.667734+00:00",
+  "is_retroactive": false,
+  "trade_id": 319,
+  "trade_date": "2026-07-02",
+  "ticker": "HUM",
+  "quantity": 13.0,
+  "price": 394.35,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-02T19:15:15.643728+00:00",
+  "market_price": 409.42,
+  "market_snapshot_at": "2026-07-01T00:00:00+00:00"
+}
