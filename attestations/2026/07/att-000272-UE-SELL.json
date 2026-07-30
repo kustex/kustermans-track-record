@@ -1,0 +1,21 @@
+{
+  "sequence_number": 272,
+  "attestation_hash": "fd33ea514aee7e8552a163c1792516252950082c6909863c8830e7b7bd75e4b2",
+  "previous_hash": "9e5e64e237ec843d5823fa47f84b2469333e0d73974dff81ca8d07ab6488344c",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-07-13T19:31:33.360608+00:00",
+  "is_retroactive": false,
+  "trade_id": 352,
+  "trade_date": "2026-07-13",
+  "ticker": "UE",
+  "quantity": 677.0,
+  "price": 22.79,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-13T19:31:33.336263+00:00",
+  "market_price": 22.76,
+  "market_snapshot_at": "2026-07-10T00:00:00+00:00"
+}
