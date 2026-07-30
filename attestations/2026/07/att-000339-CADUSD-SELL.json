@@ -1,0 +1,21 @@
+{
+  "sequence_number": 339,
+  "attestation_hash": "1e76f38dead99baef5bd466ca8b5ac9e98bc3ef9cf8d8fa59b604bbe136ec887",
+  "previous_hash": "62308bb80e75297620611b97cf9ee471cc40ea8226ec6be9eedd25a17bdaffed",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 250 BP",
+  "attested_at": "2026-07-22T20:48:26.918604+00:00",
+  "is_retroactive": false,
+  "trade_id": 431,
+  "trade_date": "2026-07-22",
+  "ticker": "CADUSD",
+  "quantity": 35574.0,
+  "price": 0.709936785,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-22T20:48:26.868242+00:00",
+  "market_price": 0.7088,
+  "market_snapshot_at": "2026-07-21T00:00:00+00:00"
+}
