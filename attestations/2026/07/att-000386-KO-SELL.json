@@ -1,0 +1,21 @@
+{
+  "sequence_number": 386,
+  "attestation_hash": "98251c5d81725da97dcc40bf3d6c90cca790712fc44813de0662702399282c93",
+  "previous_hash": "8edad05524af91411517d0c101d12d2705d7bcd01beeeeab2118ecaa7189630b",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 25 BP",
+  "attested_at": "2026-07-28T16:16:42.182559+00:00",
+  "is_retroactive": false,
+  "trade_id": 479,
+  "trade_date": "2026-07-28",
+  "ticker": "KO",
+  "quantity": 29.0,
+  "price": 88.59,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-28T16:16:42.145826+00:00",
+  "market_price": 84.07,
+  "market_snapshot_at": "2026-07-27T00:00:00+00:00"
+}
