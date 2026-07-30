@@ -1,0 +1,21 @@
+{
+  "sequence_number": 245,
+  "attestation_hash": "34d9a3195b120de478b0d96bb9d68056e917e4a4baa4d1628dc08ccb36189441",
+  "previous_hash": "137894484b95e21b9375935c93693e732e65f8aa6affc4d7703d39df85c2c612",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 50 BP",
+  "attested_at": "2026-07-07T19:45:40.886832+00:00",
+  "is_retroactive": false,
+  "trade_id": 325,
+  "trade_date": "2026-07-07",
+  "ticker": "NFLX",
+  "quantity": 67.0,
+  "price": 76.275,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-07T19:45:40.856016+00:00",
+  "market_price": 76.02,
+  "market_snapshot_at": "2026-07-06T00:00:00+00:00"
+}
