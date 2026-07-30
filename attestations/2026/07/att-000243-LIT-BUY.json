@@ -1,0 +1,21 @@
+{
+  "sequence_number": 243,
+  "attestation_hash": "55094eee4029153a22b98f42792521b0a20549a8aaf990926098b7607f1aa87f",
+  "previous_hash": "77751534c934aa767c62d96f986ef11afd26ef8941dddd5e97205a2317f61bb7",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-07-07T16:06:00.716817+00:00",
+  "is_retroactive": false,
+  "trade_id": 323,
+  "trade_date": "2026-07-07",
+  "ticker": "LIT",
+  "quantity": 132.0,
+  "price": 73.75,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-07T16:06:00.685720+00:00",
+  "market_price": 76.17,
+  "market_snapshot_at": "2026-07-06T00:00:00+00:00"
+}
