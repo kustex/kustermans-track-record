@@ -1,0 +1,21 @@
+{
+  "sequence_number": 387,
+  "attestation_hash": "902d9a453599be5bba79c752f217964956287615056f1f248a445d4a68788d98",
+  "previous_hash": "98251c5d81725da97dcc40bf3d6c90cca790712fc44813de0662702399282c93",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-07-28T19:25:49.758993+00:00",
+  "is_retroactive": false,
+  "trade_id": 480,
+  "trade_date": "2026-07-28",
+  "ticker": "BA",
+  "quantity": 81.0,
+  "price": 222.44,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-28T19:25:49.735925+00:00",
+  "market_price": 211.5,
+  "market_snapshot_at": "2026-07-27T00:00:00+00:00"
+}
