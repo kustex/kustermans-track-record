@@ -1,0 +1,21 @@
+{
+  "sequence_number": 347,
+  "attestation_hash": "6b0f6df9a8210d152cb5c49a9ab98543cb51cb66c92a7c9d93fce2ba5fbedebf",
+  "previous_hash": "3c10e43c0ac6d6d7eab474989467190dc66a98e5912e026a15b3f594f160b41b",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 50 BP",
+  "attested_at": "2026-07-23T14:46:41.389952+00:00",
+  "is_retroactive": false,
+  "trade_id": 439,
+  "trade_date": "2026-07-23",
+  "ticker": "NVDA",
+  "quantity": 24.0,
+  "price": 208.595,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-23T14:46:41.333999+00:00",
+  "market_price": 212.06,
+  "market_snapshot_at": "2026-07-22T00:00:00+00:00"
+}
