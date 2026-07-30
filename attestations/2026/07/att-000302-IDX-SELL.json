@@ -1,0 +1,21 @@
+{
+  "sequence_number": 302,
+  "attestation_hash": "820d69e347ac1f1a70e8fe261578b3e87b35b2faee0bbc69320f4746009a7934",
+  "previous_hash": "4dd89ba0151b33cd7f256e63aacad8b039fea10bda38d973c59715443cee54af",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "",
+  "attested_at": "2026-07-16T15:55:48.436567+00:00",
+  "is_retroactive": false,
+  "trade_id": 386,
+  "trade_date": "2026-07-16",
+  "ticker": "IDX",
+  "quantity": 1040.0,
+  "price": 10.71,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-16T15:55:48.398331+00:00",
+  "market_price": 10.55,
+  "market_snapshot_at": "2026-07-15T00:00:00+00:00"
+}
