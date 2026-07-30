@@ -1,0 +1,21 @@
+{
+  "sequence_number": 236,
+  "attestation_hash": "5919c442a8af5501468353a53819019d61104d71969fb92343c163673c9c0bf1",
+  "previous_hash": "a7155bfa04f339db9475daf1611eea6caf48fa8360575c7ae8925a244fdc287e",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 2% NAV",
+  "attested_at": "2026-07-02T16:27:49.344883+00:00",
+  "is_retroactive": false,
+  "trade_id": 316,
+  "trade_date": "2026-07-02",
+  "ticker": "UUP",
+  "quantity": 721.0,
+  "price": 28.315,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-02T16:27:49.325315+00:00",
+  "market_price": 28.49,
+  "market_snapshot_at": "2026-07-01T00:00:00+00:00"
+}
