@@ -1,0 +1,21 @@
+{
+  "sequence_number": 359,
+  "attestation_hash": "55691690bfb1b6785f6428c4b4c4ecd61d4dd30c1db32beede839aa2fded6a45",
+  "previous_hash": "e73a96baf8315131a39f4ceddf65fafabdeab2c6284b091d6bd716223c2b53f3",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "",
+  "attested_at": "2026-07-24T14:03:40.206495+00:00",
+  "is_retroactive": false,
+  "trade_id": 451,
+  "trade_date": "2026-07-24",
+  "ticker": "LVS",
+  "quantity": 314.0,
+  "price": 45.82,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-24T14:03:40.182601+00:00",
+  "market_price": 46.03,
+  "market_snapshot_at": "2026-07-23T00:00:00+00:00"
+}
