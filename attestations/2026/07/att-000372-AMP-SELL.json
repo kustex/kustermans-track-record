@@ -1,0 +1,21 @@
+{
+  "sequence_number": 372,
+  "attestation_hash": "0990e7434e27bce9a1f2a28097c5b7af12627bba644137481d2304119b9fdb0e",
+  "previous_hash": "ad4cb5d37bbcf4a7a38fe40f25be280ec221193a4233ffffc280aac18613f566",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 25 BP",
+  "attested_at": "2026-07-27T14:43:36.111371+00:00",
+  "is_retroactive": false,
+  "trade_id": 465,
+  "trade_date": "2026-07-27",
+  "ticker": "AMP",
+  "quantity": 5.0,
+  "price": 540.4,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-27T14:43:36.066273+00:00",
+  "market_price": 528.9,
+  "market_snapshot_at": "2026-07-24T00:00:00+00:00"
+}
