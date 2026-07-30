@@ -1,0 +1,21 @@
+{
+  "sequence_number": 314,
+  "attestation_hash": "24a301ea13a108d07e83fb40e66e7850c7c183163a11c71d30482051365ee1b9",
+  "previous_hash": "3c7b4d39979217623628d4be8c45cda31c75e2b2dd43bbc2889929e678427106",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-07-20T18:52:06.812655+00:00",
+  "is_retroactive": false,
+  "trade_id": 400,
+  "trade_date": "2026-07-20",
+  "ticker": "603288.SHG",
+  "quantity": 441.0,
+  "price": 37.0,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-20T18:52:06.800560+00:00",
+  "market_price": 36.0,
+  "market_snapshot_at": "2026-07-17T00:00:00+00:00"
+}
