@@ -1,0 +1,21 @@
+{
+  "sequence_number": 345,
+  "attestation_hash": "4b4c1196a3317dc430e6e50eed9eafe4697d1c59f9edcd30e3b501cce0271de9",
+  "previous_hash": "dd5d0c7feb806025916551be53f10ad2f34e478219f7f9346fa9e4c350d4b9ab",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 2% NAV",
+  "attested_at": "2026-07-23T14:05:39.859612+00:00",
+  "is_retroactive": false,
+  "trade_id": 437,
+  "trade_date": "2026-07-23",
+  "ticker": "XLRE",
+  "quantity": 447.0,
+  "price": 45.1,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-23T14:05:39.837770+00:00",
+  "market_price": 45.01,
+  "market_snapshot_at": "2026-07-22T00:00:00+00:00"
+}
