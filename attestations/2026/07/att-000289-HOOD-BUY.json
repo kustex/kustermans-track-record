@@ -1,0 +1,21 @@
+{
+  "sequence_number": 289,
+  "attestation_hash": "0813466c66cb4e74d4dfe644fbbeead235749c5ed945c8092dc0ac90178ba4f3",
+  "previous_hash": "fa1235631a7c52c83e40b7e51cd67100b2aabdf581fb4c2d7f7c2203637db9bc",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 50 BP",
+  "attested_at": "2026-07-15T14:44:21.226971+00:00",
+  "is_retroactive": false,
+  "trade_id": 369,
+  "trade_date": "2026-07-15",
+  "ticker": "HOOD",
+  "quantity": 45.0,
+  "price": 113.15,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-15T14:44:21.114811+00:00",
+  "market_price": 113.45,
+  "market_snapshot_at": "2026-07-14T00:00:00+00:00"
+}
