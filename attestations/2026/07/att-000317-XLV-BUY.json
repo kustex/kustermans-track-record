@@ -1,0 +1,21 @@
+{
+  "sequence_number": 317,
+  "attestation_hash": "76fa7efc11efe2196adb9a066a4559fd5e4c64d6929adc80b50914634ed322c5",
+  "previous_hash": "64653b79772282d213796193b16c9d719986c41c89478a2879ae59a58485f9f0",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "",
+  "attested_at": "2026-07-21T13:34:30.277198+00:00",
+  "is_retroactive": false,
+  "trade_id": 403,
+  "trade_date": "2026-07-21",
+  "ticker": "XLV",
+  "quantity": 255.0,
+  "price": 158.11,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-21T13:34:30.245281+00:00",
+  "market_price": 159.25,
+  "market_snapshot_at": "2026-07-20T00:00:00+00:00"
+}
