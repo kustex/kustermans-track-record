@@ -1,0 +1,21 @@
+{
+  "sequence_number": 222,
+  "attestation_hash": "3a36549c212deee6a7374353df3b8791e568495c659cea33d5082891e1807628",
+  "previous_hash": "b1a4fef825478c502dd9ffb3395f708dcd821f34563e353ee0070c1274a1381a",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "XLV only etf bullish ST/MT with upcoming quad 4",
+  "attested_at": "2026-07-01T17:46:11.904106+00:00",
+  "is_retroactive": false,
+  "trade_id": 302,
+  "trade_date": "2026-07-01",
+  "ticker": "LLY",
+  "quantity": 10.0,
+  "price": 1175.67,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-01T17:46:11.868373+00:00",
+  "market_price": 1199.4301,
+  "market_snapshot_at": "2026-06-30T00:00:00+00:00"
+}
