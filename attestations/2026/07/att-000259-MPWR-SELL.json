@@ -1,0 +1,21 @@
+{
+  "sequence_number": 259,
+  "attestation_hash": "ca2a93c15498b4b4d35fc9a6e6b5ce65298d0bec116fa8396ffe090996131bed",
+  "previous_hash": "dddde5d29b69035b40501e355801a37b1940affbd369cfcaf066a7fd21749189",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "",
+  "attested_at": "2026-07-09T15:29:23.107841+00:00",
+  "is_retroactive": false,
+  "trade_id": 339,
+  "trade_date": "2026-07-09",
+  "ticker": "MPWR",
+  "quantity": 7.0,
+  "price": 1394.67,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-09T15:29:23.082235+00:00",
+  "market_price": 1315.51,
+  "market_snapshot_at": "2026-07-08T00:00:00+00:00"
+}
