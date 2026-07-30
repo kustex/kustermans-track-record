@@ -1,0 +1,21 @@
+{
+  "sequence_number": 246,
+  "attestation_hash": "50859d493a3d224aca3ae2264fed3be5955ff7da7f8bada4b6ce3d4947796bdb",
+  "previous_hash": "34d9a3195b120de478b0d96bb9d68056e917e4a4baa4d1628dc08ccb36189441",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 50 BP",
+  "attested_at": "2026-07-07T19:46:02.275361+00:00",
+  "is_retroactive": false,
+  "trade_id": 326,
+  "trade_date": "2026-07-07",
+  "ticker": "603288.SHG",
+  "quantity": 149.0,
+  "price": 34.11,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-07T19:46:02.264956+00:00",
+  "market_price": 34.36,
+  "market_snapshot_at": "2026-07-06T00:00:00+00:00"
+}
