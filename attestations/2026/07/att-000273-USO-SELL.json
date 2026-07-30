@@ -1,0 +1,21 @@
+{
+  "sequence_number": 273,
+  "attestation_hash": "d0073f6e5e0ab3ec8f22b98400d09ceb729865b06c0202c6324d0242f0a655a6",
+  "previous_hash": "fd33ea514aee7e8552a163c1792516252950082c6909863c8830e7b7bd75e4b2",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 50 BP",
+  "attested_at": "2026-07-13T19:34:10.616367+00:00",
+  "is_retroactive": false,
+  "trade_id": 353,
+  "trade_date": "2026-07-13",
+  "ticker": "USO",
+  "quantity": 43.0,
+  "price": 118.0025,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-13T19:34:10.570908+00:00",
+  "market_price": 108.7,
+  "market_snapshot_at": "2026-07-10T00:00:00+00:00"
+}
