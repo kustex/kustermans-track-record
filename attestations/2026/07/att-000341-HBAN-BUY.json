@@ -1,0 +1,21 @@
+{
+  "sequence_number": 341,
+  "attestation_hash": "a62cb9c50ea18cbca43bd121ebb0c48d54e5f15825ee57451f7125e718e752e4",
+  "previous_hash": "9dd37fe3cf8c7a03fcdc83f10e9792c5cd40d62b3db884af531604c37e4175bb",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 100 BP",
+  "attested_at": "2026-07-23T13:36:14.465126+00:00",
+  "is_retroactive": false,
+  "trade_id": 433,
+  "trade_date": "2026-07-23",
+  "ticker": "HBAN",
+  "quantity": 574.0,
+  "price": 17.585,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-23T13:36:14.433169+00:00",
+  "market_price": 18.27,
+  "market_snapshot_at": "2026-07-22T00:00:00+00:00"
+}
