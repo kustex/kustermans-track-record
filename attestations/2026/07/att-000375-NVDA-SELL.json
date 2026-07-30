@@ -1,0 +1,21 @@
+{
+  "sequence_number": 375,
+  "attestation_hash": "395ff0f65624984e2a61652643e57ede3dbd21df4b1060605589d8ceda9fbf33",
+  "previous_hash": "823c254a37c6f7706c6fd2ca45adc6c645af3996262ed1845f63173a651e7ca4",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-07-27T15:54:25.906017+00:00",
+  "is_retroactive": false,
+  "trade_id": 468,
+  "trade_date": "2026-07-27",
+  "ticker": "NVDA",
+  "quantity": 97.0,
+  "price": 196.68,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-27T15:54:25.845764+00:00",
+  "market_price": 206.84,
+  "market_snapshot_at": "2026-07-24T00:00:00+00:00"
+}
