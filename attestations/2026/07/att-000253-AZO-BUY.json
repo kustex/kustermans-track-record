@@ -1,0 +1,21 @@
+{
+  "sequence_number": 253,
+  "attestation_hash": "87c8780b5de868c582f48ae6abe5fc32f80d1b7047adb4e427c9c5ba70852a25",
+  "previous_hash": "681d0ecae6cb313ba373d7d09e4642e754ea1160f1f07bef18869ea55941accf",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-07-09T15:24:34.807479+00:00",
+  "is_retroactive": false,
+  "trade_id": 333,
+  "trade_date": "2026-07-09",
+  "ticker": "AZO",
+  "quantity": 4.0,
+  "price": 3034.845,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-09T15:24:34.788569+00:00",
+  "market_price": 3070.1699,
+  "market_snapshot_at": "2026-07-08T00:00:00+00:00"
+}
