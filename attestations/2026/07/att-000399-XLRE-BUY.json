@@ -1,0 +1,21 @@
+{
+  "sequence_number": 399,
+  "attestation_hash": "f63c36d324fba343648b7bf67d4212f4a59a3f68922ca398d8c4eb98ef5c7fed",
+  "previous_hash": "395736a89315a2ba88d88ecfd99471a319aedfc54b666ff99ed884106168710d",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 100 BP",
+  "attested_at": "2026-07-30T13:48:27.659600+00:00",
+  "is_retroactive": false,
+  "trade_id": 492,
+  "trade_date": "2026-07-30",
+  "ticker": "XLRE",
+  "quantity": 222.0,
+  "price": 45.44,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-30T13:48:27.630146+00:00",
+  "market_price": 45.96,
+  "market_snapshot_at": "2026-07-29T00:00:00+00:00"
+}
