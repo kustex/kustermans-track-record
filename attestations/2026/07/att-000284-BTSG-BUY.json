@@ -1,0 +1,21 @@
+{
+  "sequence_number": 284,
+  "attestation_hash": "93c3368e6dbc0f4d143929f7791500c01d9469a0dcf18c00c49ac1dac7555425",
+  "previous_hash": "b24fe746268ec5321220c4b54f79462d37c6a17b5d1983cc7e4c01f9a1507bf6",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 50 BP",
+  "attested_at": "2026-07-15T13:35:23.255670+00:00",
+  "is_retroactive": false,
+  "trade_id": 364,
+  "trade_date": "2026-07-15",
+  "ticker": "BTSG",
+  "quantity": 75.0,
+  "price": 67.29,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-15T13:35:23.184306+00:00",
+  "market_price": 69.67,
+  "market_snapshot_at": "2026-07-14T00:00:00+00:00"
+}
