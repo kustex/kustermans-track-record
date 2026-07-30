@@ -1,0 +1,21 @@
+{
+  "sequence_number": 382,
+  "attestation_hash": "8cc71ed0b9d81ffb07cebd00191db8ec7a013078ae055c26b4e050052c464354",
+  "previous_hash": "8821162777b01e2c375bd80f16ff107def126c881f8a4e455d49b7b423ad3644",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 25%",
+  "attested_at": "2026-07-28T15:47:57.702995+00:00",
+  "is_retroactive": false,
+  "trade_id": 475,
+  "trade_date": "2026-07-28",
+  "ticker": "CPT",
+  "quantity": 60.0,
+  "price": 114.79,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-28T15:47:57.666891+00:00",
+  "market_price": 112.84,
+  "market_snapshot_at": "2026-07-27T00:00:00+00:00"
+}
