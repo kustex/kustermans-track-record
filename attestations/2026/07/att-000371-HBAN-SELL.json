@@ -1,0 +1,21 @@
+{
+  "sequence_number": 371,
+  "attestation_hash": "ad4cb5d37bbcf4a7a38fe40f25be280ec221193a4233ffffc280aac18613f566",
+  "previous_hash": "aa55d65d3dbeda9a99f25a15c382668408cc83f80d84b7e8a7eb9b96448dd0e5",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-07-27T14:22:40.253827+00:00",
+  "is_retroactive": false,
+  "trade_id": 464,
+  "trade_date": "2026-07-27",
+  "ticker": "HBAN",
+  "quantity": 1146.0,
+  "price": 17.38,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-27T14:22:40.222817+00:00",
+  "market_price": 17.36,
+  "market_snapshot_at": "2026-07-24T00:00:00+00:00"
+}
