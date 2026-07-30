@@ -1,0 +1,21 @@
+{
+  "sequence_number": 381,
+  "attestation_hash": "8821162777b01e2c375bd80f16ff107def126c881f8a4e455d49b7b423ad3644",
+  "previous_hash": "2375d35d46d64c491d1ead9efe30c04ff6a182f0865af9c9e0ff9b5cb68c2fa6",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 25 BP",
+  "attested_at": "2026-07-28T15:47:38.562212+00:00",
+  "is_retroactive": false,
+  "trade_id": 474,
+  "trade_date": "2026-07-28",
+  "ticker": "AAPL",
+  "quantity": 7.0,
+  "price": 339.45,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-28T15:47:38.523359+00:00",
+  "market_price": 336.91,
+  "market_snapshot_at": "2026-07-27T00:00:00+00:00"
+}
