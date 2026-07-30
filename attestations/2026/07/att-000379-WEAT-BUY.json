@@ -1,0 +1,21 @@
+{
+  "sequence_number": 379,
+  "attestation_hash": "02707bbe6485e4b8676f1de6e4e9430645d5ca9a2a6b90951bf9e6e95ba4144b",
+  "previous_hash": "ef76b18d0e17a07afa87d04990d7f56d09f3383d2441826031f3154c3e393ef9",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 1% NAV",
+  "attested_at": "2026-07-27T17:24:14.697224+00:00",
+  "is_retroactive": false,
+  "trade_id": 472,
+  "trade_date": "2026-07-27",
+  "ticker": "WEAT",
+  "quantity": 412.0,
+  "price": 24.6199,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-27T17:24:14.663470+00:00",
+  "market_price": 25.22,
+  "market_snapshot_at": "2026-07-24T00:00:00+00:00"
+}
