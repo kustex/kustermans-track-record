@@ -1,0 +1,21 @@
+{
+  "sequence_number": 247,
+  "attestation_hash": "a03da7eef60f1f41bbc9462d8902f57a9d255c18f6b67c177aa885c437f69299",
+  "previous_hash": "50859d493a3d224aca3ae2264fed3be5955ff7da7f8bada4b6ce3d4947796bdb",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 100 BP",
+  "attested_at": "2026-07-08T13:58:05.255985+00:00",
+  "is_retroactive": false,
+  "trade_id": 327,
+  "trade_date": "2026-07-08",
+  "ticker": "BIIB",
+  "quantity": 50.0,
+  "price": 203.54,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-08T13:58:05.238940+00:00",
+  "market_price": 205.7,
+  "market_snapshot_at": "2026-07-07T00:00:00+00:00"
+}
