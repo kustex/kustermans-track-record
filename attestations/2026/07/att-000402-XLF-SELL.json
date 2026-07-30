@@ -1,0 +1,21 @@
+{
+  "sequence_number": 402,
+  "attestation_hash": "7f0998690381c2dfc9b4aecd6546d71eed99a218e7bd03ab851b0ca851775826",
+  "previous_hash": "b0c25c73ca1a72adc68cdcfc9ac73488f62932b143c1a00549d624186cf7f438",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 250 BP",
+  "attested_at": "2026-07-30T13:49:54.653781+00:00",
+  "is_retroactive": false,
+  "trade_id": 495,
+  "trade_date": "2026-07-30",
+  "ticker": "XLF",
+  "quantity": 446.0,
+  "price": 56.595,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-30T13:49:54.629568+00:00",
+  "market_price": 56.68,
+  "market_snapshot_at": "2026-07-29T00:00:00+00:00"
+}
