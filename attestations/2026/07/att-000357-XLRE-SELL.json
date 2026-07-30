@@ -1,0 +1,21 @@
+{
+  "sequence_number": 357,
+  "attestation_hash": "786bcd286804c26ad815c37a19a9e508dee230e0fe25a20d8d7ebad9ef2f435a",
+  "previous_hash": "596fe23a142e64a2bf6c93f9d673a6b179f2957924db394330da0f03a24e7e56",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 50 BP",
+  "attested_at": "2026-07-24T14:01:39.352473+00:00",
+  "is_retroactive": false,
+  "trade_id": 449,
+  "trade_date": "2026-07-24",
+  "ticker": "XLRE",
+  "quantity": 110.0,
+  "price": 45.9,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-24T14:01:39.334133+00:00",
+  "market_price": 44.95,
+  "market_snapshot_at": "2026-07-23T00:00:00+00:00"
+}
