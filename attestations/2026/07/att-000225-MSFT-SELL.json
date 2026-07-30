@@ -1,0 +1,21 @@
+{
+  "sequence_number": 225,
+  "attestation_hash": "ac511a5a72bef2b5ca485fbb3f2f82c77f7c91f46f9f0724d8eaeabff80a6628",
+  "previous_hash": "2467c498214cd489d64d5b3d71627e4a7b87dcda76e3bfa30f186c0a21fdff25",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 50 BP",
+  "attested_at": "2026-07-01T17:55:53.141476+00:00",
+  "is_retroactive": false,
+  "trade_id": 305,
+  "trade_date": "2026-07-01",
+  "ticker": "MSFT",
+  "quantity": 13.0,
+  "price": 387.81,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-01T17:55:53.115129+00:00",
+  "market_price": 373.02,
+  "market_snapshot_at": "2026-06-30T00:00:00+00:00"
+}
