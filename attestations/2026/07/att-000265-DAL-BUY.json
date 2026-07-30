@@ -1,0 +1,21 @@
+{
+  "sequence_number": 265,
+  "attestation_hash": "8bd82a939014e61def04226485a2abaf20fc3583c1158a7d25de154de4fa47f4",
+  "previous_hash": "b2a1b1b8b70eb3d83938bc58e04d189e724ab4b88a87cacf5de875709d4680df",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "",
+  "attested_at": "2026-07-09T16:16:38.155455+00:00",
+  "is_retroactive": false,
+  "trade_id": 345,
+  "trade_date": "2026-07-09",
+  "ticker": "DAL",
+  "quantity": 143.0,
+  "price": 89.23,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-09T16:16:38.139979+00:00",
+  "market_price": 87.29,
+  "market_snapshot_at": "2026-07-08T00:00:00+00:00"
+}
