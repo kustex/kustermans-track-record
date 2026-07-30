@@ -1,0 +1,21 @@
+{
+  "sequence_number": 285,
+  "attestation_hash": "fbf20adf346d0dea0ddcb3868bbae8513725e6d21b417f74bb22f418d3ed3f3a",
+  "previous_hash": "93c3368e6dbc0f4d143929f7791500c01d9469a0dcf18c00c49ac1dac7555425",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 50 BP",
+  "attested_at": "2026-07-15T13:35:31.611198+00:00",
+  "is_retroactive": false,
+  "trade_id": 365,
+  "trade_date": "2026-07-15",
+  "ticker": "CPT",
+  "quantity": 45.0,
+  "price": 112.805,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-15T13:35:31.580448+00:00",
+  "market_price": 112.98,
+  "market_snapshot_at": "2026-07-14T00:00:00+00:00"
+}
