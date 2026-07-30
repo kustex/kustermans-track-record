@@ -1,0 +1,21 @@
+{
+  "sequence_number": 306,
+  "attestation_hash": "19465a60f3648de88981e896d8feb5cf8232ee5a4bed7ea444333cccf6b009b1",
+  "previous_hash": "bb45465e9033bfd6e70f8f61bd79138d3efd79e04b4a99b2fb663dc89158d5f0",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-07-17T13:32:47.398461+00:00",
+  "is_retroactive": false,
+  "trade_id": 391,
+  "trade_date": "2026-07-17",
+  "ticker": "NFLX",
+  "quantity": 201.0,
+  "price": 66.44,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-17T13:32:47.361867+00:00",
+  "market_price": 74.35,
+  "market_snapshot_at": "2026-07-16T00:00:00+00:00"
+}
