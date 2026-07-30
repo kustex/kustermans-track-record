@@ -1,0 +1,21 @@
+{
+  "sequence_number": 226,
+  "attestation_hash": "3c9fd74c0bbba9b8d80e17ec6325ca4435f6eb5c502c58afdae2c2c7ebfc9f00",
+  "previous_hash": "ac511a5a72bef2b5ca485fbb3f2f82c77f7c91f46f9f0724d8eaeabff80a6628",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 250 BP",
+  "attested_at": "2026-07-02T14:27:16.524268+00:00",
+  "is_retroactive": false,
+  "trade_id": 306,
+  "trade_date": "2026-07-02",
+  "ticker": "EDV",
+  "quantity": 404.0,
+  "price": 63.38,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-02T14:27:16.493701+00:00",
+  "market_price": 63.46,
+  "market_snapshot_at": "2026-07-01T00:00:00+00:00"
+}
