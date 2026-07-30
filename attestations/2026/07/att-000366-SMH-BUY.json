@@ -1,0 +1,21 @@
+{
+  "sequence_number": 366,
+  "attestation_hash": "27c71e35c55cbcaa9649257c5c12aab0f146e41fd716e1707c5bbce4f022b10c",
+  "previous_hash": "7596a1731eb091c4c1a831429bf0db352f8f9e963cc704bc2b3fd35512689da5",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 25 BP",
+  "attested_at": "2026-07-27T14:08:06.477951+00:00",
+  "is_retroactive": false,
+  "trade_id": 459,
+  "trade_date": "2026-07-27",
+  "ticker": "SMH",
+  "quantity": 5.0,
+  "price": 552.95,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-27T14:08:06.450436+00:00",
+  "market_price": 561.19,
+  "market_snapshot_at": "2026-07-24T00:00:00+00:00"
+}
