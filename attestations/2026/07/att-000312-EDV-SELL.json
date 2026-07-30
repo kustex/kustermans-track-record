@@ -1,0 +1,21 @@
+{
+  "sequence_number": 312,
+  "attestation_hash": "6461b0ffc67e0f849d2ba18ac0354c395b37d29af451f9b900aaa862a87f1bbb",
+  "previous_hash": "3dc23f181ba3b6bd143b1a35c255bde7a048ff893e0fdcf42c06626fecef7cc5",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-07-20T13:55:19.447682+00:00",
+  "is_retroactive": false,
+  "trade_id": 398,
+  "trade_date": "2026-07-20",
+  "ticker": "EDV",
+  "quantity": 1270.0,
+  "price": 61.935,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-20T13:55:19.408844+00:00",
+  "market_price": 62.18,
+  "market_snapshot_at": "2026-07-17T00:00:00+00:00"
+}
