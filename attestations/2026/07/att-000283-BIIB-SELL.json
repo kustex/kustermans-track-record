@@ -1,0 +1,21 @@
+{
+  "sequence_number": 283,
+  "attestation_hash": "b24fe746268ec5321220c4b54f79462d37c6a17b5d1983cc7e4c01f9a1507bf6",
+  "previous_hash": "0d2a270d08f62ca103de4369c55171f89fff647beb930019564a216a91aeef1c",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-07-15T13:33:52.329874+00:00",
+  "is_retroactive": false,
+  "trade_id": 363,
+  "trade_date": "2026-07-15",
+  "ticker": "BIIB",
+  "quantity": 100.0,
+  "price": 186.73,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-15T13:33:52.295130+00:00",
+  "market_price": 191.95,
+  "market_snapshot_at": "2026-07-14T00:00:00+00:00"
+}
