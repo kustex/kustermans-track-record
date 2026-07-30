@@ -1,0 +1,21 @@
+{
+  "sequence_number": 356,
+  "attestation_hash": "596fe23a142e64a2bf6c93f9d673a6b179f2957924db394330da0f03a24e7e56",
+  "previous_hash": "e003af23d230093f5bfdb24cdfd791778806ae7c686ccc3b71f031755e833197",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "",
+  "attested_at": "2026-07-24T13:53:58.328962+00:00",
+  "is_retroactive": false,
+  "trade_id": 448,
+  "trade_date": "2026-07-24",
+  "ticker": "AMP",
+  "quantity": 34.0,
+  "price": 513.84,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-24T13:53:58.221207+00:00",
+  "market_price": 520.11,
+  "market_snapshot_at": "2026-07-23T00:00:00+00:00"
+}
