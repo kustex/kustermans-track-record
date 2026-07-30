@@ -1,0 +1,21 @@
+{
+  "sequence_number": 244,
+  "attestation_hash": "137894484b95e21b9375935c93693e732e65f8aa6affc4d7703d39df85c2c612",
+  "previous_hash": "55094eee4029153a22b98f42792521b0a20549a8aaf990926098b7607f1aa87f",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "",
+  "attested_at": "2026-07-07T16:06:16.573141+00:00",
+  "is_retroactive": false,
+  "trade_id": 324,
+  "trade_date": "2026-07-07",
+  "ticker": "WEAT",
+  "quantity": 442.0,
+  "price": 23.04,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-07T16:06:16.530942+00:00",
+  "market_price": 22.93,
+  "market_snapshot_at": "2026-07-06T00:00:00+00:00"
+}
