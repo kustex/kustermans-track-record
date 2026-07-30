@@ -1,0 +1,21 @@
+{
+  "sequence_number": 251,
+  "attestation_hash": "904d4d64f6699a2c4cf54b05c89878fceb32076e2186e240fb5aa0891ea6e3e1",
+  "previous_hash": "603da244dae8ffe46e486b8e03bdd73bfde33a12a598122b74f0711c07a6afdb",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-07-09T14:51:29.833112+00:00",
+  "is_retroactive": false,
+  "trade_id": 331,
+  "trade_date": "2026-07-09",
+  "ticker": "COIN",
+  "quantity": 61.0,
+  "price": 157.81,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-09T14:51:29.796789+00:00",
+  "market_price": 159.36,
+  "market_snapshot_at": "2026-07-08T00:00:00+00:00"
+}
