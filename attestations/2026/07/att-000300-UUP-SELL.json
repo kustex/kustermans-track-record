@@ -1,0 +1,21 @@
+{
+  "sequence_number": 300,
+  "attestation_hash": "a61596a8fb03c6e61f1e888b4d3e9bf23d80811122086303e95fd1b977679f65",
+  "previous_hash": "25287f4610577f48702665758f2d5e4a38701204b4116013b69f384e37857f00",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-07-16T14:06:45.006256+00:00",
+  "is_retroactive": false,
+  "trade_id": 384,
+  "trade_date": "2026-07-16",
+  "ticker": "UUP",
+  "quantity": 2050.0,
+  "price": 28.295,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-16T14:06:44.985735+00:00",
+  "market_price": 28.25,
+  "market_snapshot_at": "2026-07-15T00:00:00+00:00"
+}
