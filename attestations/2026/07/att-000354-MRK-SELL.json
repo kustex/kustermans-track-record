@@ -1,0 +1,21 @@
+{
+  "sequence_number": 354,
+  "attestation_hash": "2f818e1e9d665e199d6b37481b73995f9f98e54da546b52a9edbfd55eeb3aff9",
+  "previous_hash": "b305d4ca1884d4ea503c1311cf44d392f5f3c94811b80549302d58912110b95e",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 22 BP",
+  "attested_at": "2026-07-24T13:45:30.042151+00:00",
+  "is_retroactive": false,
+  "trade_id": 446,
+  "trade_date": "2026-07-24",
+  "ticker": "MRK",
+  "quantity": 17.0,
+  "price": 131.16,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-24T13:45:29.997588+00:00",
+  "market_price": 130.48,
+  "market_snapshot_at": "2026-07-23T00:00:00+00:00"
+}
