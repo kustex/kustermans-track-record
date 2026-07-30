@@ -1,0 +1,21 @@
+{
+  "sequence_number": 352,
+  "attestation_hash": "f1d4987e57a5c2a4c7bea6cb9921c3fab9c26a6d8ecf1c394470aacb10de2c3f",
+  "previous_hash": "846900ef4debfa9acc8b80d04fe4e322ffcef83b5b778806c0ff41d34efb3ef2",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 50 BP",
+  "attested_at": "2026-07-24T13:44:42.315320+00:00",
+  "is_retroactive": false,
+  "trade_id": 444,
+  "trade_date": "2026-07-24",
+  "ticker": "XLF",
+  "quantity": 91.0,
+  "price": 55.805,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-24T13:44:42.278455+00:00",
+  "market_price": 55.83,
+  "market_snapshot_at": "2026-07-23T00:00:00+00:00"
+}
