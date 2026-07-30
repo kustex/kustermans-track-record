@@ -1,0 +1,21 @@
+{
+  "sequence_number": 271,
+  "attestation_hash": "9e5e64e237ec843d5823fa47f84b2469333e0d73974dff81ca8d07ab6488344c",
+  "previous_hash": "b785aa5250399df5b340325d19da5698d3cca6efd2d6a67de6dfb89c611527b3",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-07-13T14:42:46.863502+00:00",
+  "is_retroactive": false,
+  "trade_id": 351,
+  "trade_date": "2026-07-13",
+  "ticker": "ISPR",
+  "quantity": 100.0,
+  "price": 1.72,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-13T14:42:46.808359+00:00",
+  "market_price": 1.63,
+  "market_snapshot_at": "2026-07-10T00:00:00+00:00"
+}
