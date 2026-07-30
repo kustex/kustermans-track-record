@@ -1,0 +1,21 @@
+{
+  "sequence_number": 277,
+  "attestation_hash": "0c710f2c8c426f40adc7a5fc3324e9541d95786be947aa94463940e8f27e1eac",
+  "previous_hash": "63e9ecaf39cab64f3d0aefc48155c50e0a5daf11868d229bb40f3dae3559b915",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-07-13T19:58:57.022973+00:00",
+  "is_retroactive": false,
+  "trade_id": 357,
+  "trade_date": "2026-07-13",
+  "ticker": "1818.HK",
+  "quantity": 567.0,
+  "price": 18.13,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-13T19:58:57.013324+00:00",
+  "market_price": 18.49,
+  "market_snapshot_at": "2026-07-10T00:00:00+00:00"
+}
