@@ -1,0 +1,21 @@
+{
+  "sequence_number": 330,
+  "attestation_hash": "eba5f46ca222b3750090591d81a6e8d804e25664690f2f53de11d65ba5e7c054",
+  "previous_hash": "7cd97493bb10d49c448c88e54b606bb731b0218318776270cfa630cdab8c3417",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-07-21T16:21:32.208481+00:00",
+  "is_retroactive": false,
+  "trade_id": 416,
+  "trade_date": "2026-07-21",
+  "ticker": "LNT",
+  "quantity": 269.0,
+  "price": 72.6603,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-21T16:21:32.182420+00:00",
+  "market_price": 73.96,
+  "market_snapshot_at": "2026-07-20T00:00:00+00:00"
+}
