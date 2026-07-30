@@ -1,0 +1,21 @@
+{
+  "sequence_number": 331,
+  "attestation_hash": "a2e697aea738643e7598b00dcdc89be3884b0a469e0d73b896208cffb17ec720",
+  "previous_hash": "eba5f46ca222b3750090591d81a6e8d804e25664690f2f53de11d65ba5e7c054",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "",
+  "attested_at": "2026-07-21T19:39:42.671719+00:00",
+  "is_retroactive": false,
+  "trade_id": 417,
+  "trade_date": "2026-07-21",
+  "ticker": "SLV",
+  "quantity": 286.0,
+  "price": 53.1,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-21T19:39:42.634724+00:00",
+  "market_price": 50.98,
+  "market_snapshot_at": "2026-07-20T00:00:00+00:00"
+}
