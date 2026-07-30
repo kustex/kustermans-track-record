@@ -1,0 +1,21 @@
+{
+  "sequence_number": 396,
+  "attestation_hash": "c59cfc82406cd42c823e2bb2ae96793c2a9ea0c4e1bb6a1fa4fb0f93ea3b7481",
+  "previous_hash": "e5e00d8b7fd1ca3ef471038d8330b6ecd55fd4ac7330a042ad7bb44d08e0f538",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "",
+  "attested_at": "2026-07-29T19:10:30.158545+00:00",
+  "is_retroactive": false,
+  "trade_id": 489,
+  "trade_date": "2026-07-29",
+  "ticker": "GOOGL",
+  "quantity": 43.0,
+  "price": 340.09,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-29T19:10:30.126888+00:00",
+  "market_price": 333.71,
+  "market_snapshot_at": "2026-07-28T00:00:00+00:00"
+}
