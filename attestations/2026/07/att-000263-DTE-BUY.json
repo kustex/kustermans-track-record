@@ -1,0 +1,21 @@
+{
+  "sequence_number": 263,
+  "attestation_hash": "ccfd52e637122df10f31725e3681690dc3f6049266a55792f3668dbd5531341d",
+  "previous_hash": "86b14fd498a3d10fae9fbdfb78f395df6529fd4326fffb92260202659bcbdab8",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "",
+  "attested_at": "2026-07-09T15:37:46.875314+00:00",
+  "is_retroactive": false,
+  "trade_id": 343,
+  "trade_date": "2026-07-09",
+  "ticker": "DTE",
+  "quantity": 68.0,
+  "price": 150.48,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-09T15:37:46.842339+00:00",
+  "market_price": 151.39,
+  "market_snapshot_at": "2026-07-08T00:00:00+00:00"
+}
