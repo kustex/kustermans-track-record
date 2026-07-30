@@ -1,0 +1,21 @@
+{
+  "sequence_number": 275,
+  "attestation_hash": "3953e3761220d4cd578f66cba9916ad986b85eb45c50a299b18c3d779859eb41",
+  "previous_hash": "2e5265b938f07f29241065fb4aabb7243f4f2c53c7416fe7149bb960ed52b70b",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "",
+  "attested_at": "2026-07-13T19:37:55.372907+00:00",
+  "is_retroactive": false,
+  "trade_id": 355,
+  "trade_date": "2026-07-13",
+  "ticker": "HOOD",
+  "quantity": 140.0,
+  "price": 109.19,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-13T19:37:55.278202+00:00",
+  "market_price": 111.97,
+  "market_snapshot_at": "2026-07-10T00:00:00+00:00"
+}
