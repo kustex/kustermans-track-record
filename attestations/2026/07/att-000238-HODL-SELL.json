@@ -1,0 +1,21 @@
+{
+  "sequence_number": 238,
+  "attestation_hash": "aaabb064851edb44e6939d6d4e8796ef85d3eb8e018a054ba23f3abb816a7e63",
+  "previous_hash": "be0f0706ab4e3ba306f1b9088655e4b4cbcb855fa15f58a39087df9a4aac1e05",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 25 BP",
+  "attested_at": "2026-07-02T18:45:06.850601+00:00",
+  "is_retroactive": false,
+  "trade_id": 318,
+  "trade_date": "2026-07-02",
+  "ticker": "HODL",
+  "quantity": 146.0,
+  "price": 17.4699,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-02T18:45:06.819545+00:00",
+  "market_price": 16.96,
+  "market_snapshot_at": "2026-07-01T00:00:00+00:00"
+}
