@@ -1,0 +1,21 @@
+{
+  "sequence_number": 315,
+  "attestation_hash": "bde21734957be85280d6896860af492f4ce21929c42f0e4a1904e8e67eea6551",
+  "previous_hash": "24a301ea13a108d07e83fb40e66e7850c7c183163a11c71d30482051365ee1b9",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 50 BP",
+  "attested_at": "2026-07-20T18:53:03.623181+00:00",
+  "is_retroactive": false,
+  "trade_id": 401,
+  "trade_date": "2026-07-20",
+  "ticker": "IDX",
+  "quantity": 461.0,
+  "price": 10.94,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-20T18:53:03.586901+00:00",
+  "market_price": 10.9,
+  "market_snapshot_at": "2026-07-17T00:00:00+00:00"
+}
