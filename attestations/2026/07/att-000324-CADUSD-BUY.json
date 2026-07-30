@@ -1,0 +1,21 @@
+{
+  "sequence_number": 324,
+  "attestation_hash": "99d179cbdd40daedb868f670b862e6ee395c80a6fc01734f42f2a32ffc43bc34",
+  "previous_hash": "30e20ca1ba0bca3e8bf7c2da1c9b809d393f9a12de74fc62fd3a7f9505b647b8",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 75 BP",
+  "attested_at": "2026-07-21T14:01:35.144439+00:00",
+  "is_retroactive": false,
+  "trade_id": 410,
+  "trade_date": "2026-07-21",
+  "ticker": "CADUSD",
+  "quantity": 10676.0,
+  "price": 0.709880445,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-21T14:01:35.113998+00:00",
+  "market_price": 0.71,
+  "market_snapshot_at": "2026-07-20T00:00:00+00:00"
+}
