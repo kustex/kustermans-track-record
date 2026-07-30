@@ -1,0 +1,21 @@
+{
+  "sequence_number": 390,
+  "attestation_hash": "bb2c336321e38b1e0bc72cddb941c2724a8766eb080766c968897cdba85af79b",
+  "previous_hash": "eb5025970245df23a5826b256581b0bd387ca5918e768a1748480fdc7a50b8b9",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 50 BP",
+  "attested_at": "2026-07-28T19:28:36.807664+00:00",
+  "is_retroactive": false,
+  "trade_id": 483,
+  "trade_date": "2026-07-28",
+  "ticker": "PINS",
+  "quantity": 211.0,
+  "price": 24.115,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-28T19:28:36.752521+00:00",
+  "market_price": 23.5,
+  "market_snapshot_at": "2026-07-27T00:00:00+00:00"
+}
