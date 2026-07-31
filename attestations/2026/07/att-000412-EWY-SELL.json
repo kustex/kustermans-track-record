@@ -1,0 +1,21 @@
+{
+  "sequence_number": 412,
+  "attestation_hash": "fe09e17b84d8ca60ddb166052ef1c0090ec662daa192f84649507b413dd98dd8",
+  "previous_hash": "08d9476e7598050453c90aebd7ad136a79866ef80bd70d25afcd02cbd0b37b2b",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 50 BP",
+  "attested_at": "2026-07-31T15:09:44.969310+00:00",
+  "is_retroactive": false,
+  "trade_id": 505,
+  "trade_date": "2026-07-31",
+  "ticker": "EWY",
+  "quantity": 32.0,
+  "price": 159.07,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-31T15:09:44.945232+00:00",
+  "market_price": 161.21,
+  "market_snapshot_at": "2026-07-30T00:00:00+00:00"
+}
