@@ -1,0 +1,21 @@
+{
+  "sequence_number": 406,
+  "attestation_hash": "a36496c1a8fa6e3ae2ceb3d190cc9e387b3a02abcebdcf4ee9a13cc6bde27341",
+  "previous_hash": "04bfb97b26aad76b6299141687be2af66eb93c487ba69a7483d8e8706849a7e0",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 50 BP",
+  "attested_at": "2026-07-31T13:54:24.521192+00:00",
+  "is_retroactive": false,
+  "trade_id": 499,
+  "trade_date": "2026-07-31",
+  "ticker": "SMH",
+  "quantity": 9.0,
+  "price": 542.34,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-31T13:54:24.471795+00:00",
+  "market_price": 538.9,
+  "market_snapshot_at": "2026-07-30T00:00:00+00:00"
+}
