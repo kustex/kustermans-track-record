@@ -1,0 +1,21 @@
+{
+  "sequence_number": 411,
+  "attestation_hash": "08d9476e7598050453c90aebd7ad136a79866ef80bd70d25afcd02cbd0b37b2b",
+  "previous_hash": "9108f6370ef6e546d368d320e8036017e5021d50c1d84915f3e095866613d119",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-07-31T14:10:57.927511+00:00",
+  "is_retroactive": false,
+  "trade_id": 504,
+  "trade_date": "2026-07-31",
+  "ticker": "MOO",
+  "quantity": 492.0,
+  "price": 81.46,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-07-31T14:10:57.903705+00:00",
+  "market_price": 83.52,
+  "market_snapshot_at": "2026-07-30T00:00:00+00:00"
+}
