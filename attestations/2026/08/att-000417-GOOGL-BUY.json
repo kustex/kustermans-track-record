@@ -1,0 +1,21 @@
+{
+  "sequence_number": 417,
+  "attestation_hash": "ebc47e2782530a380b09f189c81df4b89bfe8272fa62a47254c93d9f22e65556",
+  "previous_hash": "1e322ae3fc4da1e50010495ebccc147ffa0c86994a55d195bd4f128ca2af0c5d",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-08-04T13:42:12.777788+00:00",
+  "is_retroactive": false,
+  "trade_id": 522,
+  "trade_date": "2026-08-04",
+  "ticker": "GOOGL",
+  "quantity": 58.0,
+  "price": 371.4,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-04T13:42:12.752201+00:00",
+  "market_price": 373.51,
+  "market_snapshot_at": "2026-08-03T00:00:00+00:00"
+}
