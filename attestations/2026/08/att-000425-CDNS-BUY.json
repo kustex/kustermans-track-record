@@ -1,0 +1,21 @@
+{
+  "sequence_number": 425,
+  "attestation_hash": "8fdc9b9dc421d7984096d98cbd50d612e143f3aeaeb9fa137d7cde0d95df617e",
+  "previous_hash": "6b7815a15fe9edfb5b25c67c58662e08bf58cd973dc2184452d8c4997a03214d",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 25 BP",
+  "attested_at": "2026-08-05T18:37:41.952232+00:00",
+  "is_retroactive": false,
+  "trade_id": 530,
+  "trade_date": "2026-08-05",
+  "ticker": "CDNS",
+  "quantity": 7.0,
+  "price": 336.07,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-05T18:37:41.907196+00:00",
+  "market_price": 340.62,
+  "market_snapshot_at": "2026-08-04T00:00:00+00:00"
+}
