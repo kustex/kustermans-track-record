@@ -1,0 +1,21 @@
+{
+  "sequence_number": 421,
+  "attestation_hash": "447f31ec038e6f6380ff213b55ed7afc0ad00cbd2af718ba47ace56bfdc285c2",
+  "previous_hash": "dfade0f5967a9d5a32b9578e379ae9691890023893fd3ccd5d6bd6de36a2b7bc",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-08-05T14:40:49.782597+00:00",
+  "is_retroactive": false,
+  "trade_id": 526,
+  "trade_date": "2026-08-05",
+  "ticker": "VLO",
+  "quantity": 38.0,
+  "price": 304.595,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-05T14:40:49.734306+00:00",
+  "market_price": 308.73,
+  "market_snapshot_at": "2026-08-04T00:00:00+00:00"
+}
