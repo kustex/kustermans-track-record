@@ -1,0 +1,21 @@
+{
+  "sequence_number": 423,
+  "attestation_hash": "d51abea9688636cb3661a25c924a502f0510902662c4b53d5ab38994e192f2d4",
+  "previous_hash": "cae7d87d2f64d63d434dbb7558fa39725aac0ec80dcd624ba10d45f6750e1b81",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 1.9% NAV",
+  "attested_at": "2026-08-05T18:31:18.797104+00:00",
+  "is_retroactive": false,
+  "trade_id": 528,
+  "trade_date": "2026-08-05",
+  "ticker": "CADUSD",
+  "quantity": 26565.0,
+  "price": 0.713988525,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-05T18:31:18.775761+00:00",
+  "market_price": 0.7108,
+  "market_snapshot_at": "2026-08-04T00:00:00+00:00"
+}
