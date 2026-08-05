@@ -1,0 +1,21 @@
+{
+  "sequence_number": 420,
+  "attestation_hash": "dfade0f5967a9d5a32b9578e379ae9691890023893fd3ccd5d6bd6de36a2b7bc",
+  "previous_hash": "7a9da32188a3926aeb3179000b559b703fa196c8cf6f8dcde47e70e5d07f4a8f",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "",
+  "attested_at": "2026-08-05T13:36:21.618648+00:00",
+  "is_retroactive": false,
+  "trade_id": 525,
+  "trade_date": "2026-08-05",
+  "ticker": "TSLA",
+  "quantity": 36.0,
+  "price": 323.82,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-05T13:36:21.597525+00:00",
+  "market_price": 327.35,
+  "market_snapshot_at": "2026-08-04T00:00:00+00:00"
+}
