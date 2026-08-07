@@ -1,0 +1,21 @@
+{
+  "sequence_number": 431,
+  "attestation_hash": "221088d84bdde0f69efb2fe84cdda3bc607e190edab4391c23951f8bb1a91db7",
+  "previous_hash": "b6e55bb5b2d56b5db9aa869ba94cad5fe69b185fe9d68dff985ad166aa54728a",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 50 BP",
+  "attested_at": "2026-08-07T15:23:36.123160+00:00",
+  "is_retroactive": false,
+  "trade_id": 537,
+  "trade_date": "2026-08-07",
+  "ticker": "TSLA",
+  "quantity": 15.0,
+  "price": 331.83,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-07T15:23:36.094222+00:00",
+  "market_price": 319.53,
+  "market_snapshot_at": "2026-08-06T00:00:00+00:00"
+}
