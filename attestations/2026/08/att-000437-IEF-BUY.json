@@ -1,0 +1,21 @@
+{
+  "sequence_number": 437,
+  "attestation_hash": "c024fc7c4a397010a2b3d26d5374f04aa9bd8d81aed9f355f21dfc0054dc26fe",
+  "previous_hash": "f55601a758a97cdd7df416dd1a3f5759f7b96f6e37b4480e87e092b7c332dd54",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-08-10T14:32:19.219923+00:00",
+  "is_retroactive": false,
+  "trade_id": 543,
+  "trade_date": "2026-08-10",
+  "ticker": "IEF",
+  "quantity": 372.0,
+  "price": 92.895,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-10T14:32:19.135512+00:00",
+  "market_price": 93.17,
+  "market_snapshot_at": "2026-08-07T00:00:00+00:00"
+}
