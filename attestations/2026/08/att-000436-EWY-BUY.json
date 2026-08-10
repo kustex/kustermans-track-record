@@ -1,0 +1,21 @@
+{
+  "sequence_number": 436,
+  "attestation_hash": "f55601a758a97cdd7df416dd1a3f5759f7b96f6e37b4480e87e092b7c332dd54",
+  "previous_hash": "912fc075afd82ffd7c6caaa93c37e616ad4a66623e584920390bd511653fc5db",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-08-10T14:32:04.334183+00:00",
+  "is_retroactive": false,
+  "trade_id": 542,
+  "trade_date": "2026-08-10",
+  "ticker": "EWY",
+  "quantity": 125.0,
+  "price": 164.02,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-10T14:32:04.181920+00:00",
+  "market_price": 166.09,
+  "market_snapshot_at": "2026-08-07T00:00:00+00:00"
+}
