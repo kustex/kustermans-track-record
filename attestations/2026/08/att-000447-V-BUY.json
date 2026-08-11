@@ -1,0 +1,21 @@
+{
+  "sequence_number": 447,
+  "attestation_hash": "eb62f270765371ad981b5ab8ca8cad6940b88041adf6ef885310c6a1f24eb99b",
+  "previous_hash": "e4c3d80ed37b017b641d06a05c5b69afa9a9d6fa9b60d96886662928f6086125",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "",
+  "attested_at": "2026-08-11T14:03:20.694741+00:00",
+  "is_retroactive": false,
+  "trade_id": 554,
+  "trade_date": "2026-08-11",
+  "ticker": "V",
+  "quantity": 48.0,
+  "price": 363.0,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-11T14:03:20.676424+00:00",
+  "market_price": 361.32,
+  "market_snapshot_at": "2026-08-10T00:00:00+00:00"
+}
