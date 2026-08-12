@@ -1,0 +1,21 @@
+{
+  "sequence_number": 461,
+  "attestation_hash": "995deeb4d3a461fd4696f3e3b13153948032300499fef53901b22e88417114ba",
+  "previous_hash": "53155fb940a9053f011e77abb0d9785c26f16e4c192c0668f8ffe30b20d0ec3c",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 50 BP",
+  "attested_at": "2026-08-12T19:44:40.957997+00:00",
+  "is_retroactive": false,
+  "trade_id": 572,
+  "trade_date": "2026-08-12",
+  "ticker": "CRAK",
+  "quantity": 87.0,
+  "price": 57.91,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-12T19:44:40.922112+00:00",
+  "market_price": 57.27,
+  "market_snapshot_at": "2026-08-11T00:00:00+00:00"
+}
