@@ -1,0 +1,21 @@
+{
+  "sequence_number": 459,
+  "attestation_hash": "ee8a32966d2dc902ee3bd0dc04e69388a136dd32dd0212a5f4ff1fc4efaa5bc3",
+  "previous_hash": "2347bb4f74effd0b9f37f2092dd6d6488776a924e1f89b33407e5d1adec0fa9b",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "",
+  "attested_at": "2026-08-12T13:57:06.154992+00:00",
+  "is_retroactive": false,
+  "trade_id": 568,
+  "trade_date": "2026-08-12",
+  "ticker": "SOXS",
+  "quantity": 525.0,
+  "price": 44.03,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-12T13:57:06.149180+00:00",
+  "market_price": 44.03,
+  "market_snapshot_at": "2026-08-11T00:00:00+00:00"
+}
