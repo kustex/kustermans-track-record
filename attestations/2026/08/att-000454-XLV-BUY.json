@@ -1,0 +1,21 @@
+{
+  "sequence_number": 454,
+  "attestation_hash": "08aca6cffb9e9312242f438571303d828e7571805b2d4a6ec320bd4e3b71ad98",
+  "previous_hash": "f240160476e077f1be571e6f3a9dd6fe4e2c332168ac4be7441839f93b821c19",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 120 BP",
+  "attested_at": "2026-08-12T13:34:46.001015+00:00",
+  "is_retroactive": false,
+  "trade_id": 561,
+  "trade_date": "2026-08-12",
+  "ticker": "XLV",
+  "quantity": 72.0,
+  "price": 166.485,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-12T13:34:45.964736+00:00",
+  "market_price": 168.01,
+  "market_snapshot_at": "2026-08-11T00:00:00+00:00"
+}
