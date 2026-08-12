@@ -1,0 +1,21 @@
+{
+  "sequence_number": 464,
+  "attestation_hash": "e328a2a57678ed66e303d2376082e04f8ebe468568f78256667eb1b57ec270dc",
+  "previous_hash": "e398f243527a348048adc6e011a922b84207f5113e5cf0df3a08c7c157bb26d3",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 50 BP",
+  "attested_at": "2026-08-12T19:48:52.688233+00:00",
+  "is_retroactive": false,
+  "trade_id": 575,
+  "trade_date": "2026-08-12",
+  "ticker": "GL",
+  "quantity": 28.0,
+  "price": 178.455,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-12T19:48:52.668518+00:00",
+  "market_price": 181.04,
+  "market_snapshot_at": "2026-08-11T00:00:00+00:00"
+}
