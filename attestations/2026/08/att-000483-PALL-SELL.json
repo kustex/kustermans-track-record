@@ -1,0 +1,21 @@
+{
+  "sequence_number": 483,
+  "attestation_hash": "6991b267353eef37f6597563c41b736ced04e87546c2e3c8dc8fc0511fb6b7c6",
+  "previous_hash": "5cb8e03f725bcf588b5816c156c50cb96258c7f9b8ede1c72405ae591afc1d75",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-08-14T15:59:25.176783+00:00",
+  "is_retroactive": false,
+  "trade_id": 602,
+  "trade_date": "2026-08-14",
+  "ticker": "PALL",
+  "quantity": 503.0,
+  "price": 23.97,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-14T15:59:25.155829+00:00",
+  "market_price": 23.84,
+  "market_snapshot_at": "2026-08-13T00:00:00+00:00"
+}
