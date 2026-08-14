@@ -1,0 +1,21 @@
+{
+  "sequence_number": 481,
+  "attestation_hash": "70d612bfe847196547960d373f97da4fc638907c9a584c094e9965a951ba5c7e",
+  "previous_hash": "e86a0f58a5ee9d277a540c756058c1a77d47e5470d0411e9545d16d94ca20701",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-08-14T15:57:39.928367+00:00",
+  "is_retroactive": false,
+  "trade_id": 600,
+  "trade_date": "2026-08-14",
+  "ticker": "PINS",
+  "quantity": 564.0,
+  "price": 24.09,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-14T15:57:39.890427+00:00",
+  "market_price": 23.32,
+  "market_snapshot_at": "2026-08-13T00:00:00+00:00"
+}
