@@ -1,0 +1,21 @@
+{
+  "sequence_number": 484,
+  "attestation_hash": "0e42145d669c69e9051509fc73a095aacae05c19e0555af5ba7c60d8a5277eac",
+  "previous_hash": "6991b267353eef37f6597563c41b736ced04e87546c2e3c8dc8fc0511fb6b7c6",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 50 BP",
+  "attested_at": "2026-08-14T16:02:03.842795+00:00",
+  "is_retroactive": false,
+  "trade_id": 603,
+  "trade_date": "2026-08-14",
+  "ticker": "V",
+  "quantity": 14.0,
+  "price": 365.31,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-14T16:02:03.813121+00:00",
+  "market_price": 365.45,
+  "market_snapshot_at": "2026-08-13T00:00:00+00:00"
+}
