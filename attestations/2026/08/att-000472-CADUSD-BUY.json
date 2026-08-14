@@ -1,0 +1,21 @@
+{
+  "sequence_number": 472,
+  "attestation_hash": "1dbee2fb81bfb3ab5abfa22899f89995ce4f8e88a494c31f3af2882eb0ccd353",
+  "previous_hash": "8dee045b2bb35951b35b6dc046df9125daa9146135bae38c29c386e358db0e94",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-08-14T08:08:15.843567+00:00",
+  "is_retroactive": false,
+  "trade_id": 591,
+  "trade_date": "2026-08-14",
+  "ticker": "CADUSD",
+  "quantity": 69203.0,
+  "price": 0.720043825,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-14T08:08:15.827970+00:00",
+  "market_price": 0.7177,
+  "market_snapshot_at": "2026-08-13T00:00:00+00:00"
+}
