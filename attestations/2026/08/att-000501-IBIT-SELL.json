@@ -1,0 +1,21 @@
+{
+  "sequence_number": 501,
+  "attestation_hash": "7e6cde064e07721bb8a25d68900a49df7739ec128af6a84bd0c27ab1aafafaac",
+  "previous_hash": "268e2ffaf9d8e1941deefd31aae968dbc93bf43a0c42be3b4aa7c2e5cb3725a1",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 100 BP",
+  "attested_at": "2026-08-18T13:51:08.723677+00:00",
+  "is_retroactive": false,
+  "trade_id": 620,
+  "trade_date": "2026-08-18",
+  "ticker": "IBIT",
+  "quantity": 276.0,
+  "price": 36.375,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-18T13:51:08.626237+00:00",
+  "market_price": 36.42,
+  "market_snapshot_at": "2026-08-17T00:00:00+00:00"
+}
