@@ -1,0 +1,21 @@
+{
+  "sequence_number": 503,
+  "attestation_hash": "ed5379607e87de2976443f4a15def24142492fd5e10ecb7dc9103e52ed95a1b0",
+  "previous_hash": "ce2a8d2e3d500f625a52ad83e73b4bbf6fa9248c0578c0e30a2f377f49777b7b",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-08-18T13:52:42.492184+00:00",
+  "is_retroactive": false,
+  "trade_id": 622,
+  "trade_date": "2026-08-18",
+  "ticker": "ENZL",
+  "quantity": 493.0,
+  "price": 47.1202,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-18T13:52:42.483391+00:00",
+  "market_price": 47.1202,
+  "market_snapshot_at": "2026-08-17T00:00:00+00:00"
+}
