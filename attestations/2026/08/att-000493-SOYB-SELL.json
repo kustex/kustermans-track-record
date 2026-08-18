@@ -1,0 +1,21 @@
+{
+  "sequence_number": 493,
+  "attestation_hash": "8fc09bd1f754d0ebfa5a213943fba22bb0c2bd218c8a901b327d2bc530e4145a",
+  "previous_hash": "40fd52a8d24bc4298c1407f9e8cd2fa9c6bc962c900aceea20222c0439b20d74",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-08-18T13:42:44.105772+00:00",
+  "is_retroactive": false,
+  "trade_id": 612,
+  "trade_date": "2026-08-18",
+  "ticker": "SOYB",
+  "quantity": 902.0,
+  "price": 26.035,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-18T13:42:44.084699+00:00",
+  "market_price": 25.8,
+  "market_snapshot_at": "2026-08-17T00:00:00+00:00"
+}
