@@ -1,0 +1,21 @@
+{
+  "sequence_number": 511,
+  "attestation_hash": "ca7987aa0486e7466c04353e75523eb634be71b08ad4912a5fb6d8cf519c9f8a",
+  "previous_hash": "2a999b9a56499127ad406be31f4be0547bf50d5cfdf7c394ade15a10ab0d281b",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "",
+  "attested_at": "2026-08-18T14:17:43.178385+00:00",
+  "is_retroactive": false,
+  "trade_id": 630,
+  "trade_date": "2026-08-18",
+  "ticker": "AEP",
+  "quantity": 91.0,
+  "price": 127.4,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-18T14:17:43.141257+00:00",
+  "market_price": 126.53,
+  "market_snapshot_at": "2026-08-17T00:00:00+00:00"
+}
