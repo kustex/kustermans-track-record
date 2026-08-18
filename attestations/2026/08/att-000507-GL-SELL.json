@@ -1,0 +1,21 @@
+{
+  "sequence_number": 507,
+  "attestation_hash": "9a64842c75962c9e91bee3be1400db55ff734bbb59c9974c3feac90c103b4ee7",
+  "previous_hash": "4bf9cc5ac9660b992a6027240192c95069f84e16c0d7aea1514d982f2e29fd06",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-08-18T14:03:22.682151+00:00",
+  "is_retroactive": false,
+  "trade_id": 626,
+  "trade_date": "2026-08-18",
+  "ticker": "GL",
+  "quantity": 142.0,
+  "price": 179.89,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-18T14:03:22.661280+00:00",
+  "market_price": 179.41,
+  "market_snapshot_at": "2026-08-17T00:00:00+00:00"
+}
