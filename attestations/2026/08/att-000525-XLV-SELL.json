@@ -1,0 +1,21 @@
+{
+  "sequence_number": 525,
+  "attestation_hash": "61546821c285e41e52c12ade3e1db66c90d73be2cc65716c62acd073920617a0",
+  "previous_hash": "72d030d150fcc42659e87ca94b006db8f221ee34dc5beef3dda4ebe294610b00",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 100 BP",
+  "attested_at": "2026-08-18T19:29:55.088234+00:00",
+  "is_retroactive": false,
+  "trade_id": 644,
+  "trade_date": "2026-08-18",
+  "ticker": "XLV",
+  "quantity": 59.0,
+  "price": 169.97,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-18T19:29:55.064005+00:00",
+  "market_price": 167.05,
+  "market_snapshot_at": "2026-08-17T00:00:00+00:00"
+}
