@@ -1,0 +1,21 @@
+{
+  "sequence_number": 491,
+  "attestation_hash": "e4a68aa14e7cfa4277023d13f95ce394b9da27a6dd4ea94b07477aef0f5e40f9",
+  "previous_hash": "0dd6e2efe77436ecf37b2841d2e961afffba81e3e996644e5e04bb78eb8758f8",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 50 BP",
+  "attested_at": "2026-08-18T13:42:26.210929+00:00",
+  "is_retroactive": false,
+  "trade_id": 610,
+  "trade_date": "2026-08-18",
+  "ticker": "GDX",
+  "quantity": 55.0,
+  "price": 91.13,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-18T13:42:26.190331+00:00",
+  "market_price": 91.89,
+  "market_snapshot_at": "2026-08-17T00:00:00+00:00"
+}
