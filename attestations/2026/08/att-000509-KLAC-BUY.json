@@ -1,0 +1,21 @@
+{
+  "sequence_number": 509,
+  "attestation_hash": "11fed8860378e90ed02a14e477142cca8d8e4ff4217b655d65a32d164eb8a5eb",
+  "previous_hash": "7825462daffb76f648a11e9c2edc1706016af8f7e6f1e8e584aecc7289907c4a",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-08-18T14:08:37.691949+00:00",
+  "is_retroactive": false,
+  "trade_id": 628,
+  "trade_date": "2026-08-18",
+  "ticker": "KLAC",
+  "quantity": 60.0,
+  "price": 197.41,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-18T14:08:37.654275+00:00",
+  "market_price": 205.76,
+  "market_snapshot_at": "2026-08-17T00:00:00+00:00"
+}
