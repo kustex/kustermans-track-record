@@ -1,0 +1,21 @@
+{
+  "sequence_number": 520,
+  "attestation_hash": "1a4aa76cb36183ea9681e35d9bf01b5f408530e795e6c4ca3f5d9e386eb1b6a3",
+  "previous_hash": "af515e45def9e8d3ecf65367392c186f041eae52b7e21dd1747acb38aa147123",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 6% NAV",
+  "attested_at": "2026-08-18T16:44:20.963123+00:00",
+  "is_retroactive": false,
+  "trade_id": 639,
+  "trade_date": "2026-08-18",
+  "ticker": "AAAU",
+  "quantity": 1399.0,
+  "price": 43.035,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-18T16:44:20.689152+00:00",
+  "market_price": 43.575,
+  "market_snapshot_at": "2026-08-17T00:00:00+00:00"
+}
