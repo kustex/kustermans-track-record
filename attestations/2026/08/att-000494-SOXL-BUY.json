@@ -1,0 +1,21 @@
+{
+  "sequence_number": 494,
+  "attestation_hash": "6daaaefc80c881ca2192784ecfa47017e8ca98135ba17651991fb3c6a44a51e5",
+  "previous_hash": "8fc09bd1f754d0ebfa5a213943fba22bb0c2bd218c8a901b327d2bc530e4145a",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-08-18T13:42:54.566128+00:00",
+  "is_retroactive": false,
+  "trade_id": 613,
+  "trade_date": "2026-08-18",
+  "ticker": "SOXL",
+  "quantity": 158.0,
+  "price": 134.86,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-18T13:42:54.558779+00:00",
+  "market_price": 151.53,
+  "market_snapshot_at": "2026-08-17T00:00:00+00:00"
+}
