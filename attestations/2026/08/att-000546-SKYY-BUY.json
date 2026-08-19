@@ -1,0 +1,21 @@
+{
+  "sequence_number": 546,
+  "attestation_hash": "a3c180b3f25fa360528c164b869cdcc999a85e2886412f30f28dbc32e489de64",
+  "previous_hash": "932c52912fdf94806ce2b5624629ae06a3050bebb80bab281a09af5635d2fe8d",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 50 BP",
+  "attested_at": "2026-08-19T19:51:42.234702+00:00",
+  "is_retroactive": false,
+  "trade_id": 665,
+  "trade_date": "2026-08-19",
+  "ticker": "SKYY",
+  "quantity": 31.0,
+  "price": 160.91,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-19T19:51:42.227476+00:00",
+  "market_price": 161.37,
+  "market_snapshot_at": "2026-08-18T00:00:00+00:00"
+}
