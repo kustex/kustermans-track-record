@@ -1,0 +1,21 @@
+{
+  "sequence_number": 547,
+  "attestation_hash": "cfd986eee60583dda87d881719b60e347e5d47ea3d3989ce17748bec2dc5b463",
+  "previous_hash": "a3c180b3f25fa360528c164b869cdcc999a85e2886412f30f28dbc32e489de64",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 100 BP",
+  "attested_at": "2026-08-19T19:52:21.232781+00:00",
+  "is_retroactive": false,
+  "trade_id": 666,
+  "trade_date": "2026-08-19",
+  "ticker": "GLD",
+  "quantity": 24.0,
+  "price": 413.79,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-19T19:52:21.191655+00:00",
+  "market_price": 398.55,
+  "market_snapshot_at": "2026-08-18T00:00:00+00:00"
+}
