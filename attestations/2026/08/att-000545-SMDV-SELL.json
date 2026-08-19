@@ -1,0 +1,21 @@
+{
+  "sequence_number": 545,
+  "attestation_hash": "932c52912fdf94806ce2b5624629ae06a3050bebb80bab281a09af5635d2fe8d",
+  "previous_hash": "50cefbeb2bcaa2ae2d3434605816fcdda85b50427033e6c275ddb1ba5a1f043c",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 400 BP",
+  "attested_at": "2026-08-19T19:51:09.217758+00:00",
+  "is_retroactive": false,
+  "trade_id": 664,
+  "trade_date": "2026-08-19",
+  "ticker": "SMDV",
+  "quantity": 520.0,
+  "price": 77.39,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-19T19:51:09.207014+00:00",
+  "market_price": 77.68,
+  "market_snapshot_at": "2026-08-18T00:00:00+00:00"
+}
