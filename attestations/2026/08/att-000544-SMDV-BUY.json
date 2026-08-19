@@ -1,0 +1,21 @@
+{
+  "sequence_number": 544,
+  "attestation_hash": "50cefbeb2bcaa2ae2d3434605816fcdda85b50427033e6c275ddb1ba5a1f043c",
+  "previous_hash": "40858042a78b91d51a8a8dc213455a8bed92708c609b7597ddd254c323caec9f",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 200 BP",
+  "attested_at": "2026-08-19T19:50:54.656661+00:00",
+  "is_retroactive": false,
+  "trade_id": 663,
+  "trade_date": "2026-08-19",
+  "ticker": "SMDV",
+  "quantity": 260.0,
+  "price": 77.39,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-19T19:50:54.648517+00:00",
+  "market_price": 77.68,
+  "market_snapshot_at": "2026-08-18T00:00:00+00:00"
+}
