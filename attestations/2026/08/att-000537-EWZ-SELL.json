@@ -1,0 +1,21 @@
+{
+  "sequence_number": 537,
+  "attestation_hash": "119d3207b95ed43e789459f5ca32cd609c07592fae8f473b1ace3370285494fe",
+  "previous_hash": "630aa8edee76a5a083d2aadf8a8dcc524ad3c3ea0b62875adef07908f447ed3a",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "",
+  "attested_at": "2026-08-19T14:39:25.287614+00:00",
+  "is_retroactive": false,
+  "trade_id": 656,
+  "trade_date": "2026-08-19",
+  "ticker": "EWZ",
+  "quantity": 509.0,
+  "price": 34.83,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-19T14:39:25.262260+00:00",
+  "market_price": 33.7,
+  "market_snapshot_at": "2026-08-18T00:00:00+00:00"
+}
