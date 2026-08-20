@@ -1,0 +1,21 @@
+{
+  "sequence_number": 556,
+  "attestation_hash": "ca86644968ef35a32037185e7bac4446c7e151b42bbe221b108554151b415bdd",
+  "previous_hash": "99f6d9d6c2ad42faf52192945f89d3ea4bb6bec94ea6438fcc7076cd835503f6",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 250 BP",
+  "attested_at": "2026-08-20T14:28:43.348816+00:00",
+  "is_retroactive": false,
+  "trade_id": 675,
+  "trade_date": "2026-08-20",
+  "ticker": "FXY",
+  "quantity": 435.0,
+  "price": 57.73,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-20T14:28:43.311880+00:00",
+  "market_price": 58.02,
+  "market_snapshot_at": "2026-08-19T00:00:00+00:00"
+}
