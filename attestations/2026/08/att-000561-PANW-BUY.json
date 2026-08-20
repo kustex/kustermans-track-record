@@ -1,0 +1,21 @@
+{
+  "sequence_number": 561,
+  "attestation_hash": "75dfb126d14b350f4cf26d4fc927ef5b7d8ddc88c9fabcf3002b0d352524626e",
+  "previous_hash": "bd6cd80315c0f8612d09632f8969d1273eddb1a25763f264f024fb5bbe71532d",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "",
+  "attested_at": "2026-08-20T14:49:01.993236+00:00",
+  "is_retroactive": false,
+  "trade_id": 680,
+  "trade_date": "2026-08-20",
+  "ticker": "PANW",
+  "quantity": 33.0,
+  "price": 358.78,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-20T14:49:01.972962+00:00",
+  "market_price": 359.76,
+  "market_snapshot_at": "2026-08-19T00:00:00+00:00"
+}
