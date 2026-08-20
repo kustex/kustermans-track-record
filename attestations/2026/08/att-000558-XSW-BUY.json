@@ -1,0 +1,21 @@
+{
+  "sequence_number": 558,
+  "attestation_hash": "053708342c0101dba11b8cf1f7f895e29ffe92976e5d1f371d69be0e217c7353",
+  "previous_hash": "2dbc7a7d894ca0280f0ee5fd8ec2c2de2480ab6bf27bba311f1ccc6f79aa2fa9",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 250 BP",
+  "attested_at": "2026-08-20T14:46:10.249617+00:00",
+  "is_retroactive": false,
+  "trade_id": 677,
+  "trade_date": "2026-08-20",
+  "ticker": "XSW",
+  "quantity": 126.0,
+  "price": 198.64,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-20T14:46:10.234969+00:00",
+  "market_price": 200.1666,
+  "market_snapshot_at": "2026-08-19T00:00:00+00:00"
+}
