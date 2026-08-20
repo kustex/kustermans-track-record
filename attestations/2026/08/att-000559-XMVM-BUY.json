@@ -1,0 +1,21 @@
+{
+  "sequence_number": 559,
+  "attestation_hash": "75dab2a89ce5e480109fd7cf873f5379f991e21b25d9c51ed7ce2a79e3520350",
+  "previous_hash": "053708342c0101dba11b8cf1f7f895e29ffe92976e5d1f371d69be0e217c7353",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 100 BP",
+  "attested_at": "2026-08-20T14:46:37.853453+00:00",
+  "is_retroactive": false,
+  "trade_id": 678,
+  "trade_date": "2026-08-20",
+  "ticker": "XMVM",
+  "quantity": 134.0,
+  "price": 74.81,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-20T14:46:37.846610+00:00",
+  "market_price": 74.8,
+  "market_snapshot_at": "2026-08-19T00:00:00+00:00"
+}
