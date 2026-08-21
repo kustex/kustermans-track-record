@@ -1,0 +1,21 @@
+{
+  "sequence_number": 564,
+  "attestation_hash": "6ca57a3dd5def44c71cded4fa68f3bcd6d40d42f982c9c4279032ce799616d26",
+  "previous_hash": "8be09ed06c94bf39ee9bc295a4156a2d3d7690ada2c30691086a87515b9549d4",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 50 BP",
+  "attested_at": "2026-08-21T13:40:35.463757+00:00",
+  "is_retroactive": false,
+  "trade_id": 683,
+  "trade_date": "2026-08-21",
+  "ticker": "COMP",
+  "quantity": 430.0,
+  "price": 11.715,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-21T13:40:35.292121+00:00",
+  "market_price": 11.92,
+  "market_snapshot_at": "2026-08-20T00:00:00+00:00"
+}
