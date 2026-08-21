@@ -1,0 +1,21 @@
+{
+  "sequence_number": 568,
+  "attestation_hash": "7a230bb4f484760e1b0b2e063babaedd5aca03139e4b3c7305ac64288035e2a1",
+  "previous_hash": "00ba55763c2f62ed95094b84b8526f67937f9b935cb920d59669b0b512a898cd",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 50 BP",
+  "attested_at": "2026-08-21T14:28:00.428200+00:00",
+  "is_retroactive": false,
+  "trade_id": 687,
+  "trade_date": "2026-08-21",
+  "ticker": "CPER",
+  "quantity": 126.0,
+  "price": 39.965,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-21T14:28:00.406301+00:00",
+  "market_price": 39.35,
+  "market_snapshot_at": "2026-08-20T00:00:00+00:00"
+}
