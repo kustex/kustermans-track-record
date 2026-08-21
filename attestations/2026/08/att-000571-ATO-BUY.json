@@ -1,0 +1,21 @@
+{
+  "sequence_number": 571,
+  "attestation_hash": "9d5b73586b42eae931e018d20e7f802acdec5044d8402e80f308687d6225ba06",
+  "previous_hash": "808103ce4b86e2f4c6e7bfa8637007af33300e6bb4e15f52f14a83b3118ba6d2",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-08-21T14:30:05.186605+00:00",
+  "is_retroactive": false,
+  "trade_id": 690,
+  "trade_date": "2026-08-21",
+  "ticker": "ATO",
+  "quantity": 69.0,
+  "price": 169.18,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-21T14:30:05.121496+00:00",
+  "market_price": 170.52,
+  "market_snapshot_at": "2026-08-20T00:00:00+00:00"
+}
