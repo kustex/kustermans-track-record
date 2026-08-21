@@ -1,0 +1,21 @@
+{
+  "sequence_number": 574,
+  "attestation_hash": "a5628e01c416314e5f49cdc43d47ef5c4c13b93bef29cfcf9615dc82bd8997ac",
+  "previous_hash": "d421a6377575777cad6a077108389c982a61c87f5f4f55cdeacdf6e86aed84f8",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 25 BP",
+  "attested_at": "2026-08-21T14:31:20.973633+00:00",
+  "is_retroactive": false,
+  "trade_id": 693,
+  "trade_date": "2026-08-21",
+  "ticker": "THD",
+  "quantity": 34.0,
+  "price": 74.56,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-21T14:31:20.964636+00:00",
+  "market_price": 73.56,
+  "market_snapshot_at": "2026-08-20T00:00:00+00:00"
+}
