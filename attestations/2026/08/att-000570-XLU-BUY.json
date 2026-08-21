@@ -1,0 +1,21 @@
+{
+  "sequence_number": 570,
+  "attestation_hash": "808103ce4b86e2f4c6e7bfa8637007af33300e6bb4e15f52f14a83b3118ba6d2",
+  "previous_hash": "8f2c12c97111435b32b8e7ab62e15a165c756b45aa9a2132000d66eac7640956",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 100 BP",
+  "attested_at": "2026-08-21T14:29:54.727312+00:00",
+  "is_retroactive": false,
+  "trade_id": 689,
+  "trade_date": "2026-08-21",
+  "ticker": "XLU",
+  "quantity": 232.0,
+  "price": 43.425,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-21T14:29:54.711883+00:00",
+  "market_price": 43.77,
+  "market_snapshot_at": "2026-08-20T00:00:00+00:00"
+}
