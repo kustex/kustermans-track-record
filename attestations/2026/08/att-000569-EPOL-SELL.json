@@ -1,0 +1,21 @@
+{
+  "sequence_number": 569,
+  "attestation_hash": "8f2c12c97111435b32b8e7ab62e15a165c756b45aa9a2132000d66eac7640956",
+  "previous_hash": "7a230bb4f484760e1b0b2e063babaedd5aca03139e4b3c7305ac64288035e2a1",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 100 BP",
+  "attested_at": "2026-08-21T14:29:19.557895+00:00",
+  "is_retroactive": false,
+  "trade_id": 688,
+  "trade_date": "2026-08-21",
+  "ticker": "EPOL",
+  "quantity": 228.0,
+  "price": 44.37,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-21T14:29:19.540649+00:00",
+  "market_price": 44.17,
+  "market_snapshot_at": "2026-08-20T00:00:00+00:00"
+}
