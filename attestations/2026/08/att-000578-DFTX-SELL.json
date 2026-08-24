@@ -1,0 +1,21 @@
+{
+  "sequence_number": 578,
+  "attestation_hash": "768ab6b12960d2532f59bbc943bb453402821a343080652f4aa71f63873bec54",
+  "previous_hash": "58352c71e588d6c880d681b9b69ed23f666e0d5cfebaabd7b90f73628e15bd4e",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 50 BP",
+  "attested_at": "2026-08-24T13:49:58.259905+00:00",
+  "is_retroactive": false,
+  "trade_id": 701,
+  "trade_date": "2026-08-24",
+  "ticker": "DFTX",
+  "quantity": 120.0,
+  "price": 42.08,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-24T13:49:58.186847+00:00",
+  "market_price": 44.91,
+  "market_snapshot_at": "2026-08-21T00:00:00+00:00"
+}
