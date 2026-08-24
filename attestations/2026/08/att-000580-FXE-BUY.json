@@ -1,0 +1,21 @@
+{
+  "sequence_number": 580,
+  "attestation_hash": "fd21d9f96ea00036e01886fcd59aecec87371998ac9af3e867e2c6041a6a7393",
+  "previous_hash": "272dbe2d5e904756832722b14571c4377fa77c95eeec21371abbfb4713b67a2d",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 250 BP",
+  "attested_at": "2026-08-24T14:51:51.007900+00:00",
+  "is_retroactive": false,
+  "trade_id": 703,
+  "trade_date": "2026-08-24",
+  "ticker": "FXE",
+  "quantity": 235.0,
+  "price": 107.71,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-24T14:51:50.986102+00:00",
+  "market_price": 107.8,
+  "market_snapshot_at": "2026-08-21T00:00:00+00:00"
+}
