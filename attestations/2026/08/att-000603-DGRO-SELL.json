@@ -1,0 +1,21 @@
+{
+  "sequence_number": 603,
+  "attestation_hash": "dafdf7b958fd2bdea58c39e34013e1b550e7680ddcaf6b3477de3c675044d96b",
+  "previous_hash": "2b9a3cc30e946dc58f682e07c6a0d76292cd1db0ee0fcce3b2e672fc09130a4b",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-08-26T13:40:14.150939+00:00",
+  "is_retroactive": false,
+  "trade_id": 727,
+  "trade_date": "2026-08-26",
+  "ticker": "DGRO",
+  "quantity": 665.0,
+  "price": 79.915,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-26T13:40:14.138625+00:00",
+  "market_price": 79.84,
+  "market_snapshot_at": "2026-08-25T00:00:00+00:00"
+}
