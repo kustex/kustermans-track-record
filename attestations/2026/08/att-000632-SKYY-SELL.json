@@ -1,0 +1,21 @@
+{
+  "sequence_number": 632,
+  "attestation_hash": "72856048c285ca87b59b305a9caa1e06a9eb603c5c2d2530e1d0d312a4385de1",
+  "previous_hash": "84593841171f302251eceadcc7f059a099a833bcfc5888b9f825f5dbfd0be466",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 50 BP",
+  "attested_at": "2026-08-27T15:50:21.306548+00:00",
+  "is_retroactive": false,
+  "trade_id": 757,
+  "trade_date": "2026-08-27",
+  "ticker": "SKYY",
+  "quantity": 31.0,
+  "price": 165.04,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-27T15:50:21.298326+00:00",
+  "market_price": 159.87,
+  "market_snapshot_at": "2026-08-26T00:00:00+00:00"
+}
