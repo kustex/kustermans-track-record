@@ -1,0 +1,21 @@
+{
+  "sequence_number": 627,
+  "attestation_hash": "d566ae17baf8215c5bedab74d673592eddab5d50d2a4aad040b74d939568b4fb",
+  "previous_hash": "73e2af7ee67d0dec8e0fac33918e5424fd09d42e317bcd5dd02e03a8250a452a",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 50 BP",
+  "attested_at": "2026-08-27T15:02:02.026432+00:00",
+  "is_retroactive": false,
+  "trade_id": 752,
+  "trade_date": "2026-08-27",
+  "ticker": "CLMT",
+  "quantity": 110.0,
+  "price": 46.19,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-27T15:02:02.011222+00:00",
+  "market_price": 47.79,
+  "market_snapshot_at": "2026-08-26T00:00:00+00:00"
+}
