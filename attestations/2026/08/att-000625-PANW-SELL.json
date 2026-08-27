@@ -1,0 +1,21 @@
+{
+  "sequence_number": 625,
+  "attestation_hash": "5908bb741232753e4db7277aaa31f75ef0b6d216f94441ea4f62475a2b4b6ac1",
+  "previous_hash": "f0c40b15b4e937b953063336b6f5c7fe1e3528a72fa19b581152c629f6be0cea",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 25 BP",
+  "attested_at": "2026-08-27T13:56:48.710759+00:00",
+  "is_retroactive": false,
+  "trade_id": 750,
+  "trade_date": "2026-08-27",
+  "ticker": "PANW",
+  "quantity": 7.0,
+  "price": 375.07,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-27T13:56:48.688699+00:00",
+  "market_price": 339.31,
+  "market_snapshot_at": "2026-08-26T00:00:00+00:00"
+}
