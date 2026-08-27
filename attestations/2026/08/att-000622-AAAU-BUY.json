@@ -1,0 +1,21 @@
+{
+  "sequence_number": 622,
+  "attestation_hash": "f92044ac95e2ee0c7a2680d39beeb3212940e8128e1a0ec6522202e454ba4e6d",
+  "previous_hash": "8455a7f52bcfa2b97ba7a684050cf13adedab0a2346ada39f0ae7a148a776f4d",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 100 BP",
+  "attested_at": "2026-08-27T13:51:23.986579+00:00",
+  "is_retroactive": false,
+  "trade_id": 747,
+  "trade_date": "2026-08-27",
+  "ticker": "AAAU",
+  "quantity": 224.0,
+  "price": 45.14,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-27T13:51:23.743361+00:00",
+  "market_price": 45.28,
+  "market_snapshot_at": "2026-08-26T00:00:00+00:00"
+}
