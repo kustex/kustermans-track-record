@@ -1,0 +1,21 @@
+{
+  "sequence_number": 667,
+  "attestation_hash": "64c5cb0ab2b9df8322dfab6e5dfa28965f45a94bc5a6e67ad883717cd5fe4660",
+  "previous_hash": "3516e8987a2d57a0269af60040c3f219265c1eb5129d3a2a5c5466ad449b69bd",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 50 BP",
+  "attested_at": "2026-08-31T15:39:03.043953+00:00",
+  "is_retroactive": false,
+  "trade_id": 788,
+  "trade_date": "2026-08-31",
+  "ticker": "KO",
+  "quantity": 56.0,
+  "price": 89.225,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-31T15:39:03.001944+00:00",
+  "market_price": 89.66,
+  "market_snapshot_at": "2026-08-28T00:00:00+00:00"
+}
