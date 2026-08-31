@@ -1,0 +1,21 @@
+{
+  "sequence_number": 652,
+  "attestation_hash": "b17a20e1094546e65038a8801eb18c6ee77c5042800cce973b89ae7fcfb2ca9c",
+  "previous_hash": "107cedda38f8c5a51aeb8ab557c5173d9a281b1ecac20a9a6741efcd73c16966",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "",
+  "attested_at": "2026-08-31T13:38:56.004292+00:00",
+  "is_retroactive": false,
+  "trade_id": 774,
+  "trade_date": "2026-08-31",
+  "ticker": "SIL",
+  "quantity": 239.0,
+  "price": 97.74,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-31T13:38:55.997573+00:00",
+  "market_price": 99.14,
+  "market_snapshot_at": "2026-08-28T00:00:00+00:00"
+}
