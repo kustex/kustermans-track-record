@@ -1,0 +1,21 @@
+{
+  "sequence_number": 658,
+  "attestation_hash": "71be5ada91a98c0cd7dc999a43f0b451107bf7e0c6a908b3c40ba417b9bbeca5",
+  "previous_hash": "2e50fd6d08553d11ae7db9cccaa5d5dd48582ce0e67dc33554ec53e1079733d0",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 50 BP",
+  "attested_at": "2026-08-31T13:57:57.245661+00:00",
+  "is_retroactive": false,
+  "trade_id": 780,
+  "trade_date": "2026-08-31",
+  "ticker": "LLY",
+  "quantity": 4.0,
+  "price": 1149.52,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-31T13:57:57.217130+00:00",
+  "market_price": 1174.61,
+  "market_snapshot_at": "2026-08-28T00:00:00+00:00"
+}
