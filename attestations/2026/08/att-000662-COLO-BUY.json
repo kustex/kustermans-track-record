@@ -1,0 +1,21 @@
+{
+  "sequence_number": 662,
+  "attestation_hash": "46c0ea335e521d89edcc3a7681c5aa727a4919a387c5e1093b91310561a9f673",
+  "previous_hash": "50b920f7e6932efb216a3f53f2c8f87ef04d1c2ed190d74c465255a722570184",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 100 BP",
+  "attested_at": "2026-08-31T14:01:04.163710+00:00",
+  "is_retroactive": false,
+  "trade_id": 783,
+  "trade_date": "2026-08-31",
+  "ticker": "COLO",
+  "quantity": 207.0,
+  "price": 48.48,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-31T14:01:04.151646+00:00",
+  "market_price": 48.48,
+  "market_snapshot_at": "2026-08-28T00:00:00+00:00"
+}
