@@ -1,0 +1,21 @@
+{
+  "sequence_number": 659,
+  "attestation_hash": "64dca0df7506f680a6a1be9655af20437c8174c8857ba179d1bef35a2091f0be",
+  "previous_hash": "71be5ada91a98c0cd7dc999a43f0b451107bf7e0c6a908b3c40ba417b9bbeca5",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "",
+  "attested_at": "2026-08-31T13:59:09.662803+00:00",
+  "is_retroactive": false,
+  "trade_id": 781,
+  "trade_date": "2026-08-31",
+  "ticker": "GDXJ",
+  "quantity": 231.0,
+  "price": 126.03,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-31T13:59:09.647352+00:00",
+  "market_price": 128.8,
+  "market_snapshot_at": "2026-08-28T00:00:00+00:00"
+}
