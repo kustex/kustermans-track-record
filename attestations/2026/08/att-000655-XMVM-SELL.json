@@ -1,0 +1,21 @@
+{
+  "sequence_number": 655,
+  "attestation_hash": "62c2a77a05faa566d0bf785df39a9f7a551881deb9674b13199128aee94cb9ed",
+  "previous_hash": "12a22fcf50b5c1a0a67cba8369046e64a071d78606c2212a64c8d3c281acbc1b",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-08-31T13:40:57.853230+00:00",
+  "is_retroactive": false,
+  "trade_id": 777,
+  "trade_date": "2026-08-31",
+  "ticker": "XMVM",
+  "quantity": 860.0,
+  "price": 74.4699,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-31T13:40:57.841761+00:00",
+  "market_price": 74.4485,
+  "market_snapshot_at": "2026-08-28T00:00:00+00:00"
+}
