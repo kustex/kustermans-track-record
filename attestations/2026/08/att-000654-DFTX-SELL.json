@@ -1,0 +1,21 @@
+{
+  "sequence_number": 654,
+  "attestation_hash": "12a22fcf50b5c1a0a67cba8369046e64a071d78606c2212a64c8d3c281acbc1b",
+  "previous_hash": "355437ba718b36869f8ade4cbb140b5740de07752f97b9a7bf25384375a83410",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-08-31T13:40:28.042444+00:00",
+  "is_retroactive": false,
+  "trade_id": 776,
+  "trade_date": "2026-08-31",
+  "ticker": "DFTX",
+  "quantity": 361.0,
+  "price": 40.66,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-08-31T13:40:27.943353+00:00",
+  "market_price": 40.98,
+  "market_snapshot_at": "2026-08-28T00:00:00+00:00"
+}
