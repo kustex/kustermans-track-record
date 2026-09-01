@@ -1,0 +1,21 @@
+{
+  "sequence_number": 672,
+  "attestation_hash": "d13eb760455c4d5e8fbfc641704c0e47433361fd0e988624efaee0c186f8df4b",
+  "previous_hash": "66adea5dbb9898d61fbc8e5d0037df9ebb5ba6905bb4c468370643289eddf2df",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 50 BP",
+  "attested_at": "2026-09-01T13:31:09.566776+00:00",
+  "is_retroactive": false,
+  "trade_id": 791,
+  "trade_date": "2026-09-01",
+  "ticker": "TLT",
+  "quantity": 61.0,
+  "price": 81.945,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-09-01T13:31:09.542437+00:00",
+  "market_price": 82.52,
+  "market_snapshot_at": "2026-08-31T00:00:00+00:00"
+}
