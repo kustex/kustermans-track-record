@@ -1,0 +1,21 @@
+{
+  "sequence_number": 681,
+  "attestation_hash": "32770c4dfeb01c20e8bd20e7eec4c92dbb18e1722be61224598770259bd8c546",
+  "previous_hash": "16e5fdb38e43e8c8f1eaf976dc0020de96f043b2cbb36f919cfa03bcb3c51bb2",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-09-01T17:13:46.618080+00:00",
+  "is_retroactive": false,
+  "trade_id": 800,
+  "trade_date": "2026-09-01",
+  "ticker": "FXY",
+  "quantity": 977.0,
+  "price": 57.255,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-09-01T17:13:46.594433+00:00",
+  "market_price": 57.39,
+  "market_snapshot_at": "2026-08-31T00:00:00+00:00"
+}
