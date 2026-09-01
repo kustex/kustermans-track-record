@@ -1,0 +1,21 @@
+{
+  "sequence_number": 683,
+  "attestation_hash": "9d2e96b0efa84617013d84fe6e3c79490fe67a3d2dd3d3a967c314c346b75f5a",
+  "previous_hash": "d522f67657305d014f9d988bdf6399941bd8f54c0ea211a7bc0d2285e2383e23",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 50 BP",
+  "attested_at": "2026-09-01T19:14:40.234635+00:00",
+  "is_retroactive": false,
+  "trade_id": 802,
+  "trade_date": "2026-09-01",
+  "ticker": "SIL",
+  "quantity": 52.0,
+  "price": 95.2,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-09-01T19:14:40.212506+00:00",
+  "market_price": 97.95,
+  "market_snapshot_at": "2026-08-31T00:00:00+00:00"
+}
