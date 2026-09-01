@@ -1,0 +1,21 @@
+{
+  "sequence_number": 684,
+  "attestation_hash": "501dd213e548e7047fa9ba7e24fe00637a80f453d91ef949856f40ecae9521c3",
+  "previous_hash": "9d2e96b0efa84617013d84fe6e3c79490fe67a3d2dd3d3a967c314c346b75f5a",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 100 BP",
+  "attested_at": "2026-09-01T19:15:08.524786+00:00",
+  "is_retroactive": false,
+  "trade_id": 803,
+  "trade_date": "2026-09-01",
+  "ticker": "ETH-USD",
+  "quantity": 4.12967167,
+  "price": 2414.8,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-09-01T19:15:08.497575+00:00",
+  "market_price": 2466.5200195312,
+  "market_snapshot_at": "2026-09-01T00:00:00+00:00"
+}
