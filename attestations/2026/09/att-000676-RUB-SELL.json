@@ -1,0 +1,21 @@
+{
+  "sequence_number": 676,
+  "attestation_hash": "8b10cd01e8ebcc70a04c057af6797e6249dbcf8757da474991b9a2352d489fdc",
+  "previous_hash": "d01a1b69b7502b2b27630bc15499a74c3c76bbe7dc46ae7ab520cb2e2c34a707",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 50 BP",
+  "attested_at": "2026-09-01T13:40:41.054475+00:00",
+  "is_retroactive": false,
+  "trade_id": 795,
+  "trade_date": "2026-09-01",
+  "ticker": "RUB",
+  "quantity": 58.0,
+  "price": 86.86,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-09-01T13:40:41.035645+00:00",
+  "market_price": 85.85,
+  "market_snapshot_at": "2026-09-01T00:00:00+00:00"
+}
