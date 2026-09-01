@@ -1,0 +1,21 @@
+{
+  "sequence_number": 685,
+  "attestation_hash": "5c5c25dc1482ebf66116315ab253ce200d107354c7b045b5a7db88e73749bcbd",
+  "previous_hash": "501dd213e548e7047fa9ba7e24fe00637a80f453d91ef949856f40ecae9521c3",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "",
+  "attested_at": "2026-09-01T19:40:32.888695+00:00",
+  "is_retroactive": false,
+  "trade_id": 804,
+  "trade_date": "2026-09-01",
+  "ticker": "TTD",
+  "quantity": 842.0,
+  "price": 13.73,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-09-01T19:40:32.584479+00:00",
+  "market_price": 13.72,
+  "market_snapshot_at": "2026-08-31T00:00:00+00:00"
+}
