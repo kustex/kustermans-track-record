@@ -1,0 +1,21 @@
+{
+  "sequence_number": 674,
+  "attestation_hash": "4db5fa7c3835044d1dd2161dcc844d543da271795801497c99d2c5f76db54825",
+  "previous_hash": "f70ed0d02c1b06004b8761fca7dd1b40b2082a083ab6e1ce5c20d2be8d3dc86f",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 50 BP",
+  "attested_at": "2026-09-01T13:40:25.484411+00:00",
+  "is_retroactive": false,
+  "trade_id": 793,
+  "trade_date": "2026-09-01",
+  "ticker": "PDBC",
+  "quantity": 266.0,
+  "price": 18.8,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-09-01T13:40:25.469147+00:00",
+  "market_price": 18.65,
+  "market_snapshot_at": "2026-08-31T00:00:00+00:00"
+}
