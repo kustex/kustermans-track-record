@@ -1,0 +1,21 @@
+{
+  "sequence_number": 680,
+  "attestation_hash": "16e5fdb38e43e8c8f1eaf976dc0020de96f043b2cbb36f919cfa03bcb3c51bb2",
+  "previous_hash": "53f16b2b857614e7af2e2b161c427a3d2d36c26f350f80a2cc6cc880f14a69cc",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 50 BP",
+  "attested_at": "2026-09-01T14:23:19.850141+00:00",
+  "is_retroactive": false,
+  "trade_id": 799,
+  "trade_date": "2026-09-01",
+  "ticker": "XLE",
+  "quantity": 78.0,
+  "price": 64.225,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-09-01T14:23:19.830390+00:00",
+  "market_price": 63.96,
+  "market_snapshot_at": "2026-08-31T00:00:00+00:00"
+}
