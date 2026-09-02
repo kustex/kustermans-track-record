@@ -1,0 +1,21 @@
+{
+  "sequence_number": 698,
+  "attestation_hash": "6c66404501d2962d608b55818fb7efd2893810e9ae69aeb4584bf6c904fd525e",
+  "previous_hash": "86eaa0b9401f6267fd54825f18c218f14a6bb8210792ae7d2f64e1cca479b22a",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 25 BP",
+  "attested_at": "2026-09-02T19:27:17.399351+00:00",
+  "is_retroactive": false,
+  "trade_id": 816,
+  "trade_date": "2026-09-02",
+  "ticker": "XLE",
+  "quantity": 39.0,
+  "price": 65.31,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-09-02T19:27:17.381171+00:00",
+  "market_price": 64.77,
+  "market_snapshot_at": "2026-09-01T00:00:00+00:00"
+}
