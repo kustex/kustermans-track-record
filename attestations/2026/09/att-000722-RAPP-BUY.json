@@ -1,0 +1,21 @@
+{
+  "sequence_number": 722,
+  "attestation_hash": "e8a72d73c7f76f68e604ae22825bfc29475df4d9916b2ce18ebed3cdd112d012",
+  "previous_hash": "715abaf85ebc92fc87a3b9a3e55344899dadbf30b5bdc38d77af7cafdef5d741",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "",
+  "attested_at": "2026-09-03T19:58:55.807191+00:00",
+  "is_retroactive": false,
+  "trade_id": 837,
+  "trade_date": "2026-09-03",
+  "ticker": "RAPP",
+  "quantity": 374.0,
+  "price": 47.51,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-09-03T19:58:55.693625+00:00",
+  "market_price": 48.69,
+  "market_snapshot_at": "2026-09-02T00:00:00+00:00"
+}
