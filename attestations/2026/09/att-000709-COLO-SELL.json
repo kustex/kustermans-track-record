@@ -1,0 +1,21 @@
+{
+  "sequence_number": 709,
+  "attestation_hash": "f64257580ae1354533ce1c25c61bde8b76088a466640c30ae1cf79747502667c",
+  "previous_hash": "0bb51d05dc812c4fa2cf5e4106c2079a5b0f85c82a5bb1696bcb631a2a3edebb",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 100 BP",
+  "attested_at": "2026-09-03T16:41:09.944939+00:00",
+  "is_retroactive": false,
+  "trade_id": 825,
+  "trade_date": "2026-09-03",
+  "ticker": "COLO",
+  "quantity": 205.0,
+  "price": 49.6,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-09-03T16:41:09.934302+00:00",
+  "market_price": 49.16,
+  "market_snapshot_at": "2026-09-02T00:00:00+00:00"
+}
