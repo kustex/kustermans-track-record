@@ -1,0 +1,21 @@
+{
+  "sequence_number": 720,
+  "attestation_hash": "e507e4bf58900acb94b6cfc0f3a58cfdb603bc3b7517c7cda3ffea47ad2e69ad",
+  "previous_hash": "97554f65e25dab2397f30b14b07f0e972e7e1471bb34b6f8dba0f15cfe631e2e",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "",
+  "attested_at": "2026-09-03T19:56:05.024101+00:00",
+  "is_retroactive": false,
+  "trade_id": 835,
+  "trade_date": "2026-09-03",
+  "ticker": "DBA",
+  "quantity": 1221.0,
+  "price": 29.08,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-09-03T19:56:05.015374+00:00",
+  "market_price": 29.27,
+  "market_snapshot_at": "2026-09-02T00:00:00+00:00"
+}
