@@ -1,0 +1,21 @@
+{
+  "sequence_number": 716,
+  "attestation_hash": "a5b63eca950b4db74c5984cc2fca77e800afc438fa014e39aa9a3d35517de1bd",
+  "previous_hash": "1b69ef2cde7bc8295a1013224364b575bb1129fb02119704139e581fb7edbbd9",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 100 BP",
+  "attested_at": "2026-09-03T19:50:42.803939+00:00",
+  "is_retroactive": false,
+  "trade_id": 831,
+  "trade_date": "2026-09-03",
+  "ticker": "XSW",
+  "quantity": 49.0,
+  "price": 207.4099,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-09-03T19:50:42.795243+00:00",
+  "market_price": 201.95,
+  "market_snapshot_at": "2026-09-02T00:00:00+00:00"
+}
