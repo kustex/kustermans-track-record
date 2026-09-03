@@ -1,0 +1,21 @@
+{
+  "sequence_number": 714,
+  "attestation_hash": "e7a2471b30973007dee3b37bf755c61d17b9085b78490f464209cd344b1cee46",
+  "previous_hash": "0fe7bf45f74db49b1bee05cb69799629bef3e2d7514c5fd802b2e76487cc3cfe",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 250 BP",
+  "attested_at": "2026-09-03T19:50:20.417201+00:00",
+  "is_retroactive": false,
+  "trade_id": 829,
+  "trade_date": "2026-09-03",
+  "ticker": "AAAU",
+  "quantity": 576.0,
+  "price": 44.1382,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-09-03T19:50:20.149591+00:00",
+  "market_price": 43.29,
+  "market_snapshot_at": "2026-09-02T00:00:00+00:00"
+}
