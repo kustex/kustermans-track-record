@@ -1,0 +1,21 @@
+{
+  "sequence_number": 724,
+  "attestation_hash": "ab36b799e3ce5bbf32818f5a8224808bc6c962157113d7dd0dd1d88272834a80",
+  "previous_hash": "555210498f07c383fcc405ff8ee6254d82c35e87af23fba2402f1a4dde6060a2",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 250 BP",
+  "attested_at": "2026-09-03T20:02:14.445797+00:00",
+  "is_retroactive": false,
+  "trade_id": 839,
+  "trade_date": "2026-09-03",
+  "ticker": "RUB",
+  "quantity": 294.0,
+  "price": 86.54,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-09-03T20:02:14.413336+00:00",
+  "market_price": 87.2,
+  "market_snapshot_at": "2026-09-02T00:00:00+00:00"
+}
