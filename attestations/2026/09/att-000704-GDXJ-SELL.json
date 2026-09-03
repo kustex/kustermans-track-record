@@ -1,0 +1,21 @@
+{
+  "sequence_number": 704,
+  "attestation_hash": "08dfebbab010a5882f4bb881f023a94b22cc4b83d6faea305e2f09ad8f7701d5",
+  "previous_hash": "315c525df8e577ffb8f15caac2fd410166b76a0b4373c3b4214fe4e6a0880a5f",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 50 BP",
+  "attested_at": "2026-09-03T16:39:52.710786+00:00",
+  "is_retroactive": false,
+  "trade_id": 820,
+  "trade_date": "2026-09-03",
+  "ticker": "GDXJ",
+  "quantity": 39.0,
+  "price": 131.41,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-09-03T16:39:52.696055+00:00",
+  "market_price": 128.05,
+  "market_snapshot_at": "2026-09-02T00:00:00+00:00"
+}
