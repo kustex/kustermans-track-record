@@ -1,0 +1,21 @@
+{
+  "sequence_number": 715,
+  "attestation_hash": "1b69ef2cde7bc8295a1013224364b575bb1129fb02119704139e581fb7edbbd9",
+  "previous_hash": "e7a2471b30973007dee3b37bf755c61d17b9085b78490f464209cd344b1cee46",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 100 BP",
+  "attested_at": "2026-09-03T19:50:34.785779+00:00",
+  "is_retroactive": false,
+  "trade_id": 830,
+  "trade_date": "2026-09-03",
+  "ticker": "GDX",
+  "quantity": 100.0,
+  "price": 101.5201,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-09-03T19:50:34.761745+00:00",
+  "market_price": 97.63,
+  "market_snapshot_at": "2026-09-02T00:00:00+00:00"
+}
