@@ -1,0 +1,21 @@
+{
+  "sequence_number": 707,
+  "attestation_hash": "a738c82be75eefe684b88acc68a004db4141208099a86021253f3aa26405780a",
+  "previous_hash": "3558642bd5a220241ca1adf1ede33d7fed3d9f92b51ab5591f91370a3ab94e87",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 50 BP",
+  "attested_at": "2026-09-03T16:40:29.784343+00:00",
+  "is_retroactive": false,
+  "trade_id": 823,
+  "trade_date": "2026-09-03",
+  "ticker": "SIL",
+  "quantity": 50.0,
+  "price": 100.78,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-09-03T16:40:29.771002+00:00",
+  "market_price": 98.69,
+  "market_snapshot_at": "2026-09-02T00:00:00+00:00"
+}
