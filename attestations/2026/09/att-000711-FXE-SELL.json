@@ -1,0 +1,21 @@
+{
+  "sequence_number": 711,
+  "attestation_hash": "c38849a3fbefb3e480b3938c96f1fdc5a2618e84f5bc363df898e82054d1c4e7",
+  "previous_hash": "d438c774d087ccfba44a6d74de3a8ed071907d8c8f3752d3b5f61ac957167a2a",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 100 BP",
+  "attested_at": "2026-09-03T16:41:29.090594+00:00",
+  "is_retroactive": false,
+  "trade_id": 827,
+  "trade_date": "2026-09-03",
+  "ticker": "FXE",
+  "quantity": 95.0,
+  "price": 107.355,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-09-03T16:41:29.065325+00:00",
+  "market_price": 106.9,
+  "market_snapshot_at": "2026-09-02T00:00:00+00:00"
+}
