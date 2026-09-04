@@ -1,0 +1,21 @@
+{
+  "sequence_number": 728,
+  "attestation_hash": "f3ca6e45ac61c16a01357662d024fd56fb7d49a0fe7df0115a79f06bffe2e74e",
+  "previous_hash": "018dd551f0f948f72745353d43a31c58b0a2bb5a13e640f3840931173e31d640",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "",
+  "attested_at": "2026-09-04T13:33:54.192471+00:00",
+  "is_retroactive": false,
+  "trade_id": 841,
+  "trade_date": "2026-09-04",
+  "ticker": "XLU",
+  "quantity": 547.0,
+  "price": 43.0,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-09-04T13:33:54.166658+00:00",
+  "market_price": 43.03,
+  "market_snapshot_at": "2026-09-03T00:00:00+00:00"
+}
