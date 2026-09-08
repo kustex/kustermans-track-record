@@ -1,0 +1,21 @@
+{
+  "sequence_number": 738,
+  "attestation_hash": "ba3df6881494c0357c8850036a57879fbd5fc2b4e72a82ca620022c642dfef41",
+  "previous_hash": "9819f2896c75da95b78ffb9718df34776249282d69882651f563840160807cf2",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 100 BP",
+  "attested_at": "2026-09-08T13:37:28.169340+00:00",
+  "is_retroactive": false,
+  "trade_id": 847,
+  "trade_date": "2026-09-08",
+  "ticker": "DBA",
+  "quantity": 349.0,
+  "price": 28.975,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-09-08T13:37:28.151204+00:00",
+  "market_price": 28.85,
+  "market_snapshot_at": "2026-09-04T00:00:00+00:00"
+}
