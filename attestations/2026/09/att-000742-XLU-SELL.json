@@ -1,0 +1,21 @@
+{
+  "sequence_number": 742,
+  "attestation_hash": "666e05acc69760d14a1acf247a70a2fc41e1602c669a1885cccfa745a560a150",
+  "previous_hash": "a71e270e393e6105d8cd1f7ca76a41c414d7d0fa90ec7a1f358e7ac8d428f4c0",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 50 BP",
+  "attested_at": "2026-09-08T14:03:45.984412+00:00",
+  "is_retroactive": false,
+  "trade_id": 851,
+  "trade_date": "2026-09-08",
+  "ticker": "XLU",
+  "quantity": 116.0,
+  "price": 43.43,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-09-08T14:03:45.950497+00:00",
+  "market_price": 43.08,
+  "market_snapshot_at": "2026-09-04T00:00:00+00:00"
+}
