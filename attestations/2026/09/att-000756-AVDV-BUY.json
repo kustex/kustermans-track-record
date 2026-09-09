@@ -1,0 +1,21 @@
+{
+  "sequence_number": 756,
+  "attestation_hash": "42b4b4be04854d70f9a1910907addb94f109420076975a35bcb7c1e7cb903b83",
+  "previous_hash": "d5acd8718e66e904cc175ff466ee7af22f0f1b0a71819fc9f2b62b45f8904ddf",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "",
+  "attested_at": "2026-09-09T13:51:32.196353+00:00",
+  "is_retroactive": false,
+  "trade_id": 864,
+  "trade_date": "2026-09-09",
+  "ticker": "AVDV",
+  "quantity": 261.0,
+  "price": 112.66,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-09-09T13:51:32.183348+00:00",
+  "market_price": 112.36,
+  "market_snapshot_at": "2026-09-08T00:00:00+00:00"
+}
