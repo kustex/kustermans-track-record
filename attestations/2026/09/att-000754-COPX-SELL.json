@@ -1,0 +1,21 @@
+{
+  "sequence_number": 754,
+  "attestation_hash": "c2f0460baaa60155ba2d1a3bee9b62d5651c47c27afd36dac93596fb3b8bee8d",
+  "previous_hash": "a17f8219649b8338922848f9ff331796923bfa472a21baa60d743bf61082e902",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 50 BP",
+  "attested_at": "2026-09-09T13:37:05.137610+00:00",
+  "is_retroactive": false,
+  "trade_id": 862,
+  "trade_date": "2026-09-09",
+  "ticker": "COPX",
+  "quantity": 53.0,
+  "price": 95.89,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-09-09T13:37:05.096245+00:00",
+  "market_price": 94.38,
+  "market_snapshot_at": "2026-09-08T00:00:00+00:00"
+}
