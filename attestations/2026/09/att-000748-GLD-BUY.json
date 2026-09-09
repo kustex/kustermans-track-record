@@ -1,0 +1,21 @@
+{
+  "sequence_number": 748,
+  "attestation_hash": "237070bb01ee3f1a0d1792da73db1044184331f6a20b0933a836b317db2fbbb6",
+  "previous_hash": "7931387a18b608418d8a507100ff898fc08ac7abc61e580bf963404c8bba9f1d",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 250 BP",
+  "attested_at": "2026-09-09T13:35:35.420069+00:00",
+  "is_retroactive": false,
+  "trade_id": 856,
+  "trade_date": "2026-09-09",
+  "ticker": "GLD",
+  "quantity": 62.0,
+  "price": 406.12,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-09-09T13:35:35.365675+00:00",
+  "market_price": 399.72,
+  "market_snapshot_at": "2026-09-08T00:00:00+00:00"
+}
