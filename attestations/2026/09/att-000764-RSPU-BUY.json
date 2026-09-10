@@ -1,0 +1,21 @@
+{
+  "sequence_number": 764,
+  "attestation_hash": "40eafa6863d63fd2579bc25e002154c8f309d3b822c0c09ab327e2c9c3d5411a",
+  "previous_hash": "73241bf650401686f948860c2b26d20e1babc4059155b26e50c391e769b7cb58",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 100 BP",
+  "attested_at": "2026-09-10T13:39:33.887470+00:00",
+  "is_retroactive": false,
+  "trade_id": 870,
+  "trade_date": "2026-09-10",
+  "ticker": "RSPU",
+  "quantity": 132.0,
+  "price": 76.19,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-09-10T13:39:33.878160+00:00",
+  "market_price": 76.04,
+  "market_snapshot_at": "2026-09-09T00:00:00+00:00"
+}
