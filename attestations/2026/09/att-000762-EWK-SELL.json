@@ -1,0 +1,21 @@
+{
+  "sequence_number": 762,
+  "attestation_hash": "b0bbe881aaeccfa7269bd439039fe5dc14c4c38798346de6d4f96d7d4b6511a2",
+  "previous_hash": "bddec0a8f676885641a2d08438c067e115ac6b2c5213733883e47b3bd06f738e",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 200 BP",
+  "attested_at": "2026-09-10T13:33:53.703137+00:00",
+  "is_retroactive": false,
+  "trade_id": 868,
+  "trade_date": "2026-09-10",
+  "ticker": "EWK",
+  "quantity": 741.0,
+  "price": 27.1,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-09-10T13:33:53.681715+00:00",
+  "market_price": 27.1,
+  "market_snapshot_at": "2026-09-09T00:00:00+00:00"
+}
