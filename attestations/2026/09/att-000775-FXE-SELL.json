@@ -1,0 +1,21 @@
+{
+  "sequence_number": 775,
+  "attestation_hash": "81ea8f369dab278255241ed5c5158694e833becd62719483915f1e142c31b619",
+  "previous_hash": "21234323f640c0ea754fafe0d9d111ee0fa88ec31720dce2a39dc39de471f525",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-09-14T13:32:49.666841+00:00",
+  "is_retroactive": false,
+  "trade_id": 875,
+  "trade_date": "2026-09-14",
+  "ticker": "FXE",
+  "quantity": 697.0,
+  "price": 107.01,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-09-14T13:32:49.638864+00:00",
+  "market_price": 107.01,
+  "market_snapshot_at": "2026-09-11T00:00:00+00:00"
+}
