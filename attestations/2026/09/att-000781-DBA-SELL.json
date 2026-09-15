@@ -1,0 +1,21 @@
+{
+  "sequence_number": 781,
+  "attestation_hash": "4c0f337b1f7eb6d35833e7d5cfb49e1a6ff8babaacfe633468a4c685e4e03068",
+  "previous_hash": "55e48c90f3fc860191b976d35bad69132ab6e467ed27d874a1e26c9c962d0ea5",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 250 BP",
+  "attested_at": "2026-09-15T13:49:50.636734+00:00",
+  "is_retroactive": false,
+  "trade_id": 879,
+  "trade_date": "2026-09-15",
+  "ticker": "DBA",
+  "quantity": 867.0,
+  "price": 28.86,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-09-15T13:49:50.620861+00:00",
+  "market_price": 28.96,
+  "market_snapshot_at": "2026-09-14T00:00:00+00:00"
+}
