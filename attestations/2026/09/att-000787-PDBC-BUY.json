@@ -1,0 +1,21 @@
+{
+  "sequence_number": 787,
+  "attestation_hash": "3952a7391da974cf2e773bc262363729f4ac4eaef56b074b57faa8215ab1000e",
+  "previous_hash": "fc0a2a94e00d9a676426fdd063bed097061a70154bba07bb5bdc476dee07bf77",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 50 BP",
+  "attested_at": "2026-09-16T14:52:52.330378+00:00",
+  "is_retroactive": false,
+  "trade_id": 883,
+  "trade_date": "2026-09-16",
+  "ticker": "PDBC",
+  "quantity": 252.0,
+  "price": 19.9351,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-09-16T14:52:52.312223+00:00",
+  "market_price": 20.1,
+  "market_snapshot_at": "2026-09-15T00:00:00+00:00"
+}
