@@ -1,0 +1,21 @@
+{
+  "sequence_number": 793,
+  "attestation_hash": "d2f35a77087c7b6228d3cc28dfa094c789cbe5a5229b744cf280d618266f9053",
+  "previous_hash": "f6cad85edd45438c2681bea1f059dbf3e1e0180507d39213a93115485271d45a",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-09-17T13:39:51.769492+00:00",
+  "is_retroactive": false,
+  "trade_id": 885,
+  "trade_date": "2026-09-17",
+  "ticker": "STT",
+  "quantity": 93.0,
+  "price": 184.38,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-09-17T13:39:51.730959+00:00",
+  "market_price": 182.9,
+  "market_snapshot_at": "2026-09-16T00:00:00+00:00"
+}
