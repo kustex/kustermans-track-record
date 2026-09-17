@@ -1,0 +1,21 @@
+{
+  "sequence_number": 794,
+  "attestation_hash": "c246a0c68beecca58c017e87577248f848f0bd81e7601ddbc1e1f2bbd5fa08b7",
+  "previous_hash": "d2f35a77087c7b6228d3cc28dfa094c789cbe5a5229b744cf280d618266f9053",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-09-17T13:40:29.588111+00:00",
+  "is_retroactive": false,
+  "trade_id": 886,
+  "trade_date": "2026-09-17",
+  "ticker": "THD",
+  "quantity": 282.0,
+  "price": 71.08,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-09-17T13:40:29.579177+00:00",
+  "market_price": 71.08,
+  "market_snapshot_at": "2026-09-16T00:00:00+00:00"
+}
