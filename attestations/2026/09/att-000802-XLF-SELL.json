@@ -1,0 +1,21 @@
+{
+  "sequence_number": 802,
+  "attestation_hash": "f8d28003699a88c7bca6cd19e336d8fc8c83e647c87b70f1c89eb2c14897b72f",
+  "previous_hash": "99183c9e70ebb715145087a10cf10ea6675e248144733ecd55571097d3a7d6e5",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-09-17T14:19:14.936500+00:00",
+  "is_retroactive": false,
+  "trade_id": 894,
+  "trade_date": "2026-09-17",
+  "ticker": "XLF",
+  "quantity": 429.0,
+  "price": 55.72,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-09-17T14:19:14.887213+00:00",
+  "market_price": 55.93,
+  "market_snapshot_at": "2026-09-16T00:00:00+00:00"
+}
