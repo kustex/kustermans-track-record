@@ -1,0 +1,21 @@
+{
+  "sequence_number": 799,
+  "attestation_hash": "130c0244fa0610d34538c1711bf511c2a38a986f3a1ead8e90e7b14b7998af02",
+  "previous_hash": "fc0eb6ffe5c3658c920fbc08b588ecf80d2bba49346e58776b85e855b0229c85",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Close 100%",
+  "attested_at": "2026-09-17T14:06:13.569569+00:00",
+  "is_retroactive": false,
+  "trade_id": 891,
+  "trade_date": "2026-09-17",
+  "ticker": "LLY",
+  "quantity": 15.0,
+  "price": 1147.04,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-09-17T14:06:13.539426+00:00",
+  "market_price": 1137.8199,
+  "market_snapshot_at": "2026-09-16T00:00:00+00:00"
+}
