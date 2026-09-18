@@ -1,0 +1,21 @@
+{
+  "sequence_number": 810,
+  "attestation_hash": "3e2d02067d220606a7e3cb48803a98d6b3934cf1c7a4d0c5143f11a6f644fe94",
+  "previous_hash": "f56365f191aad37019d1d45480b17be3f4ef8426c42d108208ffd21408924e00",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 100 BP",
+  "attested_at": "2026-09-18T13:47:19.847290+00:00",
+  "is_retroactive": false,
+  "trade_id": 899,
+  "trade_date": "2026-09-18",
+  "ticker": "EWZ",
+  "quantity": 270.0,
+  "price": 37.385,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-09-18T13:47:19.824180+00:00",
+  "market_price": 37.74,
+  "market_snapshot_at": "2026-09-17T00:00:00+00:00"
+}
