@@ -1,0 +1,21 @@
+{
+  "sequence_number": 820,
+  "attestation_hash": "a34b19fa005caeb80458171f5ce959884ca1d4c11c5b186be14f3990a12e8c57",
+  "previous_hash": "5e764c5dfb70a6e77e9fbb16efdcc4c8d418742d6f7696741285e959e4399890",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Add 50 BP",
+  "attested_at": "2026-09-18T16:36:07.777222+00:00",
+  "is_retroactive": false,
+  "trade_id": 909,
+  "trade_date": "2026-09-18",
+  "ticker": "LQD",
+  "quantity": 48.0,
+  "price": 104.635,
+  "side": "BUY",
+  "leverage": 1.0,
+  "trade_created_at": "2026-09-18T16:36:07.734256+00:00",
+  "market_price": 105.16,
+  "market_snapshot_at": "2026-09-17T00:00:00+00:00"
+}
