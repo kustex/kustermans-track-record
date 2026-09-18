@@ -1,0 +1,21 @@
+{
+  "sequence_number": 819,
+  "attestation_hash": "5e764c5dfb70a6e77e9fbb16efdcc4c8d418742d6f7696741285e959e4399890",
+  "previous_hash": "8d2b6865760650e23a01a7becd1e99ea78037af9102b54deb346ef3a37e5dd3b",
+  "version": 2,
+  "event_kind": "trade",
+  "user_id": 1,
+  "notes": "Sell 50 BP",
+  "attested_at": "2026-09-18T15:19:57.188954+00:00",
+  "is_retroactive": false,
+  "trade_id": 908,
+  "trade_date": "2026-09-18",
+  "ticker": "ETH-USD",
+  "quantity": 1.95067688,
+  "price": 2582.63,
+  "side": "SELL",
+  "leverage": 1.0,
+  "trade_created_at": "2026-09-18T15:19:57.146973+00:00",
+  "market_price": 2447.1067359889,
+  "market_snapshot_at": "2026-09-17T00:00:00+00:00"
+}
